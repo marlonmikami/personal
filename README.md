@@ -1,7 +1,9 @@
-Life does not need to be any one specific way.
+Life does not need to be any one specific way
 
-There is nothing worth being upset over.
+No one needs to approve
 
-No one needs to approve.
+No one needs to understand
 
-No one needs to understand.
+There is nothing worth being upset over
+
+I don't want to wish ill on anyone
