@@ -10,4 +10,4 @@ I don't want to wish ill on anyone
 
 ---
 
-[Cookbook](recipes/coockbook.md)
+[Cookbook](recipes/cookBook.md)
