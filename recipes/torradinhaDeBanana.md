@@ -9,7 +9,7 @@
 * Canela
 * Leite
 
-# Preparo
+## Preparo
 
 * Cortar fora as bordas do pão e amassar.
 * Bater um ovo com um pouco de leite e uma colher (sopa) de açúcar e canela.
