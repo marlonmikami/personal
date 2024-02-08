@@ -6,6 +6,6 @@ Geléia de pimenta e maçã
 
 Salada de lentilha
 
-Shakshuka
+[Shakshuka](shakshuka.md)
 
 Torradinha de banana
