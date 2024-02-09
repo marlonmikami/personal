@@ -1,5 +1,7 @@
 # Entrevero
 
+## Ingredientes
+
 * Carne bovina
 * Carne de porco
 * Carne de frango (peito)
@@ -8,5 +10,7 @@
 * Pimentão
 * Cebola
 * Pinhão
+
+## Preparo
 
 Tudo picado e frito junto
