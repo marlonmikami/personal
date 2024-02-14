@@ -10,6 +10,8 @@ I don't want to wish ill on anyone
 
 ---
 
+[Commonplace][commonplace.md]
+
 [Cookbook](recipes/cookBook.md)
 
 [Never Forget](neverForget.md)
