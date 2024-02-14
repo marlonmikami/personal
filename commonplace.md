@@ -1,3 +1,5 @@
+# Commonplace
+
 ### From _The Surrender Experiment_
 
 "If life was unfolding in a certain way, and the only reason I was resisting it was because of a personal preference, I Would let go of my preference and let life be in charge."
@@ -15,3 +17,15 @@ Replace complaining with acceptance.
 Life is not an obstacle. It's the field where your skills get tested and honed.
 
 Living will give you opportunities to let go that meditation alone cannot.
+
+### Thoughts
+
+Life does not need to be any one specific way
+
+No one needs to approve
+
+No one needs to understand
+
+There is nothing worth being upset over
+
+I don’t want to wish ill on anyone
