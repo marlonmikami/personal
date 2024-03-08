@@ -4,3 +4,8 @@ Thoughts are just noise within head. This voice in my head is not who I am, and 
 
 ## The mind
 It is not the job of the mind to figure out how to solve all of your problems. The mind evolved to help you survive in a hunter-gatherer scenario, not to make sense of the modern world, not to try to make everyone like you, not to figure out how to become beautiful, rich, productive and everything else you've been convinced that you need to be.
+
+## On emotions
+There is no such thing as "good" or "bad" emotions. Pain is no less worthy of being felt than joy.
+
+Alow yourself to feel your emotions.
