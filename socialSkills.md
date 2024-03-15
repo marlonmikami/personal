@@ -8,6 +8,8 @@ How many opportunities to talk to people do you have? Take note of all of them.
 
 Stop identifying with introversion. You are as capable to be social as anyone, you simply lack the skills.
 
+**Intrinsic Motivation > Extrinsic motivation**: Speak because you must. Don't live your entire life censoring yourself.
+
 ## Practical
 
 * Before interacting with someone, visualize a positive outcome, not a negative one. That'll set your mood and vibe correctly.
