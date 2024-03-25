@@ -10,6 +10,16 @@ Stop identifying with introversion. You are as capable to be social as anyone, y
 
 **Intrinsic Motivation > Extrinsic motivation**: Speak because you must. Don't live your entire life censoring yourself.
 
+## You are not different from other people
+
+You don't need confidence in order to talk to other people. That is a failure of perspective.
+
+Your best interactions are those with people you love, and those take no confidence. They happen from a place of comfort.
+
+The more you see others as different from yourself, the bigger the gap you place between the both of you.
+
+What do you have in common with others?
+
 ## Practical
 
 * Before interacting with someone, visualize a positive outcome, not a negative one. That'll set your mood and vibe correctly.
