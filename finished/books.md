@@ -1,0 +1,76 @@
+|English Title|Portuguese Title|Author(s) |Status        |
+|-------------|----------------|----------|--------------|
+|$100M Offers: How To Make Offers So Good People Feel Stupid Saying No|                |Alex Hormozi|Not started   |
+|Aeneid       |Eneida          |Publius Vergilius Maro|Not started   |
+|Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones|Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus|James Clear|Not started   |
+|Attached: The New Science of Adult Attachment and How It Can Help You Find—and Keep—Love|Maneiras de amar: Como a ciência do apego adulto pode ajudar você a encontrar – e manter – o amor|Amir Levine, Rachel Heller|Not started   |
+|Babylon: Mesopotamia and the Birth of Civilization|Babilônia: A mesopotâmia e o nascimento da civilização|Paul Kriwaczek|Not started   |
+|Bhagavad Gita|Bhagavad Gita   |Unknown   |Not started   |
+|Cidadania e Paidéia na Grécia Antiga|Cidadania e Paidéia na Grécia Antiga|Delfim Ferreira Leão|Not started   |
+|Dotcom Secrets: The Underground Playbook for Growing Your Company Online with Sales Funnels|                |Russell Brunson|Not started   |
+|Gilgamesh    |Gilgamesh       |Unknown   |Not started   |
+|Meditations  |Meditações      |Marcus Aurelius|Not started   |
+|Never Split the Difference: Negotiating As If Your Life Depended On It|Negocie como se sua vida dependesse disso: Um ex-agente do FBI revela as técnicas da agência para convencer as pessoas|Chris Voss|Not started   |
+|Odyssey      |Odisséia        |Homero    |Not started   |
+|On Obligations|Dos Deveres     |Cicero    |Not started   |
+|On the Crown |Oração da Coroa |Demosthenes|Not started   |
+|On the Republic|Da República    |Cicero    |Not started   |
+|Quiet: The Power of Introverts in a World That Can't Stop Talking|O poder dos quietos: Como os tímidos e introvertidos podem mudar um mundo que não para de falar|Susan Cain|Not started   |
+|SPQR: A History of Ancient Rome|SPQR: Uma história da Roma antiga|Mary Beard|Not started   |
+|The 5 Love Languages: The Secret to Love That Lasts|As cinco linguagens do amor: Como expressar um compromisso de amor a seu cônjuge|Gary Chapman|Not started   |
+|The 7 Habits of Highly Effective People|Os 7 Hábitos das Pessoas Altamente Eficazes|Stephen R. Covey|Not started   |
+|The Book of Five Rings|O Livro dos Cinco Anéis|Miyamoto Musashi|Not started   |
+|The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living: Featuring new translations of Seneca, Epictetus, and Marcus Aurelius|Diário estoico: 366 lições sobre sabedoria, perseverança e a arte de viver|Ryan Holiday|Not started   |
+|The Richest Man in Babylon|O homem mais rico da Babilônia|George S. Clason|Not started   |
+|The Rise of Athens: The Story of the World's Greatest Civilization|A ascensão de Atenas: A história da maior civilização do mundo|Anthony Everitt|Not started   |
+|The Silk Roads: A New History of the World|O coração do mundo: Uma nova história universal a partir da rota da seda: o encontro do oriente com o ocidente|Peter Frankopan|To Purchase   |
+|The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life|A Sutil Arte de Ligar o F*da-Se: Uma estratégia inusitada para uma vida melhor|Mark Manson|Not started   |
+|The Way of the Superior Man: A Spiritual Guide to Mastering the Challenges of Women, Work, and Sexual Desire|                |David Deida|Not started   |
+|The World of Ornament|                |A. Racinet, M. Dupont-Auberville|Not started   |
+|Why We Sleep: Unlocking the Power of Sleep and Dreams|Por que nós dormimos: A nova ciência do sono e do sonho|Matthew Walker|Not started   |
+
+
+
+|English Title|Portuguese Title|Author(s) |Status        |
+|-------------|----------------|----------|--------------|
+|Breath: The New Science of a Lost Art|Respire: A Nova Ciência de Uma Arte Perdida|James Nestor|Read          |
+|Can't hurt me|Nada pode me ferir|David Goggins|Read          |
+|Daphnis and Chloe|                |Longus    |Read          |
+|Deep Work    |Trabalho Profundo|Cal Newport|Read          |
+|Dhammapada   |Dhammapada      |Unknown   |Read          |
+|Este não é mais um livro de dieta: O novo e libertador estilo de vida alimentar para saúde e boa forma que derruba o conceito de dietas|Este não é mais um livro de dieta: O novo e libertador estilo de vida alimentar para saúde e boa forma que derruba o conceito de dietas|Rodrigo Polesso|Read          |
+|Four Thousand Weeks: Time Management for Mortals|Quatro Mil Semanas: Gestão de Tempo Para Mortais|Oliver Burkeman|Read          |
+|How to Not Die Alone: The Surprising Science That Will Help You Find Love|Como encontrar seu par: Usando a ciência comportamental para criar um relacionamento saudável e duradouro|Logan Ury |Read          |
+|Jewels of Gwahlur (audiobook)|                |Robert E. Howard|Read          |
+|Models: Attract Women Through Honesty|                |Mark Manson|Read          |
+|Show Your Work!|Mostre Seu Trabalho!|Austin Kleon|Read          |
+|Strange Case Of Dr. Jekyll And Mr. Hyde (audiobook)|                |Robert Louis Stevenson|Read          |
+|The Adventures of Tom Sawyer|As aventuras de Tom Sawyer|Mark Twain|Read          |
+|The Almanack of Naval Ravikant: A Guide to Wealth and Happiness|O almanaque de Naval Ravikant: Um guia para a riqueza e a felicidade|Eric Jorgenson|Read          |
+|The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness|A arte de viver: O manual clássico da virtude, felicidade e sabedoria|Epictetus, Sharon Lebell|Read          |
+|The Darkening Age: The Christian Destruction of the Classical World|                |Catherine Nixey|Read          |
+|The Go-Giver |                |Bob Burg, John David Mann|Read          |
+|The Great Gatsby|O grande Gatsby |F. Scott Fitzgerald|Read          |
+|The Magic of Thinking Big|A mágica de pensar grande|David J. Schwartz|Read          |
+|The Male Advantage|                |Kris Sturmey|Read          |
+|The Millionaire Fastlane|                |M. J. DeMarco|Read          |
+|The Neurotic's Guide to Avoiding Enlightenment: How the Left-Brain Plays Unending Games of Self-Improvement|                |Chris Niebauer Ph.D.|Dropped       |
+|The Old Man and The Sea|                |Ernest Hemingway|Read          |
+|The Princess Bride|A Princesa Prometida|William Goldman|Read          |
+|The Surrender Experiment: My Journey into Life's Perfection|                |Michael A. Singer|Read          |
+|The Tower of the Elephant (audiobook)|                |Robert E. Howard|Read          |
+|The UNIX-HATERS Handbook|                |Simson L. Garfinkel|Read          |
+|Uprooted     |                |Naomi Novik|Read          |
+|Welcome to the NHK|Bem-vindo a N.H.K|Tatsuhiko Takimoto|Read          |
+|Who Moved My Cheese|Quem mexeu no meu queijo?|Spencer Johnson|Read          |
+
+
+
+|English Title|Portuguese Title|Author(s) |Status        |
+|-------------|----------------|----------|--------------|
+|Essentialism: The Disciplined Pursuit of Less|Essencialismo: A disciplinada busca por menos|Greg Mckeown|Reading       |
+|How To Win Friends and Influence People|Como fazer amigos e influenciar pessoas|Dale Carnegie|Reading       |
+|Iliad        |Ilíada          |Homero    |Reading       |
+|Mindset: The New Psychology of Success|Mindset: A nova psicologia do sucesso|Carol S. Dweck|Reading       |
+|Mythology: Timeless Tales of Gods and Heroes|Mitologia: Contos imortais de deuses e heróis|Edith Hamilton|Reading       |
+|Think and Grow Rich|Quem Pensa Enriquece|Napoleon Hill|Reading       |
