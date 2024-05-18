@@ -18,6 +18,13 @@ Life is not an obstacle. It's the field where your skills get tested and honed.
 
 Living will give you opportunities to let go that meditation alone cannot.
 
+### Others
+
+Just as the sky remains untouched by passing clouds, you (awareness) remain untouched by passing thoughts.
+
+Remove tension, remove what isn't you
+
+
 ### Thoughts
 
 Life does not need to be any one specific way
@@ -28,4 +35,11 @@ No one needs to understand
 
 There is nothing worth being upset over
 
-I don’t want to wish ill on anyone
+I don't want to wish ill on anyone
+
+
+
+
+Assume the best of other people
+
+Put yourself out there, treat others with respect, wish the best for others

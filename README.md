@@ -8,7 +8,7 @@ Every feeling is worthy of being felt.
 
 [Commonplace](commonplace.md)
 
-[Cookbook](recipes/cookBook.md)
+[Cookbook](cookBook.md)
 
 [Meditation](meditation.md)
 
