@@ -18,11 +18,14 @@ Life is not an obstacle. It's the field where your skills get tested and honed.
 
 Living will give you opportunities to let go that meditation alone cannot.
 
+
+
 ### Others
 
 Just as the sky remains untouched by passing clouds, you (awareness) remain untouched by passing thoughts.
 
 Remove tension, remove what isn't you
+
 
 
 ### Thoughts
