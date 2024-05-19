@@ -20,6 +20,18 @@ Living will give you opportunities to let go that meditation alone cannot.
 
 
 
+### From _The Power of Silence_
+
+"Spiritual awakening is awakening from the dream of thought."
+
+"A maior parte das pessoas confunde o Agora com o que _acontece_ no Agora. Mas não é isso. O Agora é mais profundo do que o que ocorre nele. É o espaço no qual tudo acontece.
+
+Portanto não confunda o conteúdo do momento presente com o Agora. O Agora é mais profundo do que qualquer conteúdo que exista nele."
+
+The present moment doesn't need to be anything other than what it is. It is up to me accept it as it is.
+
+
+
 ### Others
 
 Just as the sky remains untouched by passing clouds, you (awareness) remain untouched by passing thoughts.
