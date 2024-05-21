@@ -34,10 +34,10 @@
 - Stardew Valley
 - Tomb Raider
 - Tomb Raider Anniversary
-- TorchLight2
+- TorchLight II
 - Touhou 8 - Imperishable Night
 - Trine
-- Trine2
+- Trine 2
 - Typing of the Dead, The
 - Unreal Tournament 3
 
@@ -65,6 +65,10 @@
 
 - Brandish: The Dark Revenant
 - Persona 3
+
+### PlayStation Vita
+
+- VVVVVV
 
 ### Game Boy
 
@@ -130,11 +134,13 @@
 - Mega Man X
 - Rock N' Roll Racing
 - Super Castlevania 4
+- Yoshi's Island
 
 ### Nintendo Entertainment System
 
 - Castlevania
 - Kirby
+- Super Mario Bros
 
 ### DOS
 
@@ -142,7 +148,7 @@
 - Heretic
 - Ultimate Doom
 
-### XBOX Series S
+### XBOX Series S/X
 
 - Baldur's Gate 3
 - Coffee Talk
