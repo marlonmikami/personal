@@ -1,4 +1,4 @@
-# Youtube
+# Bookmarks
 
 ### Fighting games
 * [Brian_F](https://www.youtube.com/@Brian_F/videos)
