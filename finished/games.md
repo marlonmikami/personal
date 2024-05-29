@@ -94,6 +94,8 @@
 - Pokemon Fire Red
 - Pokemon Ruby
 - Pokemon Sapphire
+- Summon Night: Swordcraft Story
+- Summon Night: Swordcraft Story 2
 - Wario Land 4
 
 ### Nintendo DS
