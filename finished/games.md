@@ -133,6 +133,7 @@
 ### Super Nintendo
 
 - Chrono Trigger
+- Donkey Kong Country
 - Mega Man X
 - Rock N' Roll Racing
 - Super Castlevania 4
