@@ -1,5 +1,6 @@
 ### Manga
 
+- A Divorced Crybaby Has Moved in Next Door
 - Amagami - Dreamy Forever
 - Amagami - Love Goes On!
 - Amagami - Love Goes On! - Morishima Haruka Hen
@@ -32,4 +33,5 @@
 - Uzumaki
 - Wakusei no Samidare
 - Wallman
+- When I Returned to My Hometown, My Childhood Friend was Broken
 - Yasashii Sekai no Tsukurikata (A Method to Make the World Gentle)
