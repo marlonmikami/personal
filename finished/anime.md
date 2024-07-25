@@ -100,6 +100,7 @@
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru (OreGairu)
 - Youjo Senki
 - Zero no Tsukaima (Finished?)
+- Zom 100
 - Zombie Land Saga
 
 ### Dropped
