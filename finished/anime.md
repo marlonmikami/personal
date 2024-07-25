@@ -11,6 +11,7 @@
 - B Gata H Kei
 - Bakuman
 - Beck ~ Mongolian Chop Squad
+- Bocchi the Rock!
 - Boku no Hero Academia
 - Boku wa Tomodachi Ga Sukunai
 - Bokura ga Ita
