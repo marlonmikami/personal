@@ -13,6 +13,7 @@
 - Dangan Tenshi Fan Club
 - Devilman
 - Dragon Ball
+- Flag Capture in the First Move
 - Fujiyama-san wa Shishunki
 - Gal Gohan
 - Holyland
