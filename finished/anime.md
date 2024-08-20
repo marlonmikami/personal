@@ -91,6 +91,7 @@
 - School Days
 - Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai (Rascal Does Not Dream of Bunny Girl Senpai)
 - Shuffle!
+- Sousou no Frieren
 - Spy x Family
 - Tate no Yuusha no Nariagari (The Rising of the Shield Hero)
 - Toradora!
@@ -100,6 +101,7 @@
 - Working 2!!
 - Yahari Ore no Seishun Love Comedy wa Machigatteiru (OreGairu)
 - Youjo Senki
+- Your Lie in April
 - Zero no Tsukaima (Finished?)
 - Zom 100
 - Zombie Land Saga
@@ -152,3 +154,5 @@
 - Strange Love
 - Sunabouzu (Desert Punk)
 - Tegami Bachi
+
+
