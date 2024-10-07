@@ -7,9 +7,6 @@
 ## História
 Antecedente: Feylost
 
-
-
-
 Características: 
 * Não sabe ler, se recusa a aprender
 
@@ -28,20 +25,20 @@ Características:
 
 ## Progressão
 * Lvl 1:
-    * Defesa sem armadura
-    * Fúria
+   * Defesa sem armadura
+   * Fúria
 * Lvl 2: 
-    * Ataque descuidado
-    * Sentido de perigo
+   * Ataque descuidado
+   * Sentido de perigo
 * Lvl 3:
-
+   * Primal Path: Wild Magic
+   * Magic Awareness
+   * Wild Surge
 * Lvl 4: 
-    * Feat: Great Weapon Master
+   * Feat: Great Weapon Master
 * Lvl 5:
-    * Ataque extra
-    * Movimento rápido
-
-
+   * Ataque extra
+   * Movimento rápido
 
 ## Lembretes
 
@@ -83,7 +80,6 @@ You can use this feature a number of times equal to your proficiency bonus, and 
 Also at 3rd level, the magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.
 
 If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
-
 
 | d8 | Effect |
 |---|---|
