@@ -39,6 +39,8 @@ Características:
 * Lvl 5:
    * Ataque extra
    * Movimento rápido
+* Lvl 6:
+  * Bolstering Magic
 
 ## Lembretes
 
@@ -91,3 +93,12 @@ If the effect requires a saving throw, the DC equals 8 + your proficiency bonus 
 | 6 | Until your rage ends, you are surrounded by multicolored, protective lights; you gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus. |
 | 7 | Flowers and vines temporarily grow around you; until your rage ends, the ground within 15 feet of you is difficult terrain for your enemies. |
 | 8 | A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage and be blinded until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
+
+### Bolstering Magic
+
+Beginning at 6th level, you can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
+
+* For 10 minutes, the creature can roll a d3 whenever making an attack roll or an ability check and add the number rolled to the d20 roll.
+* Roll a d3. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature’s choice). Once a creature receives this benefit, that creature can’t receive it again until after a long rest.
+  
+You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
