@@ -1,14 +1,27 @@
 # FICHA DO PERSONAGEM
-* **Nome**:   
+* **Nome**: Durik
 * **Raça**: Humano
 * **Classe**: Bárbaro (Wild Magic)
-* **Idade**: 22
+* **Idade**: 19
 
-## História
-Antecedente: Feylost
+## Personagem
 
-Características: 
+### Antecedente: Feylost
+
+Tempo passado em Feywild explica a Fúria (emoções a flor da pele) e o Caminho da Magia Selvagem 
+
+### História
+Durik sempre foi melhor em usar seus músculos do que seu cérebro
+
+
+Perdido quando criança
+Tempo em feywild explica as emoções a flor da pele
+
+
+### Personalidade
+* Fey Mark: You have a sweet scent, like that of nectar or honey
 * Não sabe ler, se recusa a aprender
+* Emoções a flor da pele
 
 ## Equipamento
 * Malho (Maul) - 2d6
