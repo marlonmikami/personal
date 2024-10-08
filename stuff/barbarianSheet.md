@@ -11,15 +11,18 @@
 Tempo passado em Feywild explica a Fúria (emoções a flor da pele) e o Caminho da Magia Selvagem 
 
 ### História
-Durik sempre foi melhor em usar seus músculos do que seu cérebro
+
+**Origem**: Seu pai, Turik tão forte quanto negligente, frequentemente perdia Durik de vista, este propenso mais propenso a vagar do que em pensar no caminho trilhado. 
 
 
-Perdido quando criança
-Tempo em feywild explica as emoções a flor da pele
 
+
+**O retorno**: Seu falho senso de direção, que um dia o levou a Feywild, por fim, o levou novamente ao plano material.
+
+**Bárbaro**: 
 
 ### Personalidade
-* Fey Mark: You have a sweet scent, like that of nectar or honey
+* Fey Mark: Your ears are covered with soft tufts of fur
 * Não sabe ler, se recusa a aprender
 * Emoções a flor da pele
 
