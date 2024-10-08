@@ -12,14 +12,16 @@ Tempo passado em Feywild explica a Fúria (emoções a flor da pele) e o Caminho
 
 ### História
 
-**Origem**: Seu pai, Turik tão forte quanto negligente, frequentemente perdia Durik de vista, este propenso mais propenso a vagar do que em pensar no caminho trilhado. 
+**Origem**: Seu pai, Turik tão forte quanto negligente, frequentemente perdia Durik de vista, este mais propenso a vagar do que em pensar no caminho trilhado. Seus pés e sua curiosidade tendiam a levar Durik a lugares longinquos, inoportunos, inexplorados, proibidos e perigosos. Curiosamente, seus pés pareciam capazes de encontrar qualquer caminho, exceto o de volta para casa.
+
+Foi o seu hábito de vagar que, um dia, levou Durik ao encontro de uma Fey(fada?), esta que lhe tomou gosto, certamente reconhecendo no jovem o talento para estar em lugares que não deveria estar. ....
 
 
+**O retorno**: Seu falho senso de direção, que um dia levou Durik a Feywild, por fim, o levou novamente ao plano material. Não tanto retornando, como perdendo-se novamente.   .....
 
+**Bárbaro**: Feywild transformou Durik. Suas emoções, tão naturalmente vívidas em Feywild, agora ....
 
-**O retorno**: Seu falho senso de direção, que um dia o levou a Feywild, por fim, o levou novamente ao plano material.
-
-**Bárbaro**: 
+**Anseio**: Feywild, dia após dia, ocupa menos espaço nas memórias de Durik, mas não em seu coração. Confiando sempre no caminho trilhado por seus pés, explora o plano material ....    
 
 ### Personalidade
 * Fey Mark: Your ears are covered with soft tufts of fur
@@ -41,22 +43,22 @@ Tempo passado em Feywild explica a Fúria (emoções a flor da pele) e o Caminho
 
 ## Progressão
 * Lvl 1:
-   * Defesa sem armadura
-   * Fúria
+  * Defesa sem armadura
+  * Fúria
 * Lvl 2: 
-   * Ataque descuidado
-   * Sentido de perigo
+  * Ataque descuidado
+  * Sentido de perigo
 * Lvl 3:
-   * Caminho Primitivo: Caminho da Magia Selvagem
-   * Vestígios Mágicos
-   * Surto Selvagem
+  * Caminho Primitivo: Caminho da Magia Selvagem
+  * Vestígios Mágicos
+  * Surto Selvagem
 * Lvl 4: 
-   * Feat: Great Weapon Master
+  * Feat: Great Weapon Master
 * Lvl 5:
-   * Ataque extra
-   * Movimento rápido
+  * Ataque extra
+  * Movimento rápido
 * Lvl 6:
-  * Bolstering Magic
+  * Fortalecimento Mágico
 
 ## Lembretes
 
