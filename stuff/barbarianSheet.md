@@ -44,9 +44,9 @@ Tempo em feywild explica as emoções a flor da pele
    * Ataque descuidado
    * Sentido de perigo
 * Lvl 3:
-   * Primal Path: Wild Magic
-   * Magic Awareness
-   * Wild Surge
+   * Caminho Primitivo: Caminho da Magia Selvagem
+   * Vestígios Mágicos
+   * Surto Selvagem
 * Lvl 4: 
    * Feat: Great Weapon Master
 * Lvl 5:
@@ -70,48 +70,48 @@ Se você for capaz de conjurar magias, você não poderá conjurá-las ou se con
 
 Sua fúria dura por 1 minuto. Ela termina prematuramente se você cair inconsciente ou se seu turno acabar e você não tiver atacado nenhuma criatura hostil desde seu último turno ou tiver sofrido dano nesse período. Você também pode terminar sua fúria no seu turno com uma ação bônus.
 
-### DEFESA SEM ARMADURA
+### Defesa Sem Armadura
 
 Quando você não estiver vestindo qualquer armadura, sua Classe de Armadura será 10 + seu modificador de Destreza + seu modificador de Constituição. Você pode usar um escudo e continuar a receber esse benefício.
 
-### ATAQUE DESCUIDADO
+### Ataque Descuidado
 
 A partir do 2° nível, você pode desistir de toda preocupação com sua defesa para atacar com um desespero feroz. Quando você fizer o seu primeiro ataque no turno, você pode decidir atacar descuidadamente. Fazer isso lhe concede vantagem nas jogadas de ataque com armas corpo-a-corpo usando Força durante seu turno, porém, as jogadas de ataques feitas contra você possuem vantagem até o início do seu próximo turno.
 
-### SENTIDO DE PERIGO
+### Sentido de Perigo
 
 No 2° nível, você adquire um sentido sobrenatural de quando as coisas próximas não estão como deveriam, concedendo a você uma chance maior quando estiver evitando perigos.
 
 Você possui vantagem em testes de resistência de Destreza contra efeitos que você possa ver, como armadilhas e magias. Para receber esse benefício você não pode estar cego, surdo ou incapacitado.
 
-### Magic Awareness 
+### Vestígios Mágicos
 
-When you choose this path at 3rd level, as an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn’t behind total cover. When you sense a spell, you learn which school of magic it belongs to.
+A partir do 3º nível, com uma ação, você pode abrir sua consciência para a presença de magia concentrada. Até o final de seu próximo turno, você sabe a localização de qualquer feitiço ou item mágico em um raio de 18 metros de você que não esteja totalmente protegido. Quando você sente um feitiço, você aprende a qual escola de magia ele pertence.
 
-You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+Você pode usar este recurso um número de vezes igual ao seu bônus de proficiência, e você recupera todos os usos gastos quando termina um Descanso Longo.
 
-### Wild Surge
+### Surto Selvagem
 
-Also at 3rd level, the magical energy roiling inside you sometimes erupts from you. When you enter your rage, roll on the Wild Magic table to determine the magical effect produced.
+Iniciando no 3º nível, a magia irrompe de você conforme você entra em fúria. Quando você entra em Fúria, role na Tabela de Surto Selvagem (logo abaixo) para determinar o efeito mágico produzido.
 
-If the effect requires a saving throw, the DC equals 8 + your proficiency bonus + your Constitution modifier.
+Se o surto selvagem requerer um teste de Resistência, a CD será igual a 8 + seu bônus de proficiência + seu modificador de Constituição.
 
-| d8 | Effect |
+| d8 | Efeito |
 |---|---|
-| 1 | Each creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d12 necrotic damage. You also gain 1d12 temporary hit points. |
-| 2 | You teleport up to 30 feet to an unoccupied space you can see. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
-| 3 | An intangible spirit, which looks like a flumph or a pixie (your choice), appears within 5 feet of one creature of your choice that you can see within 30 feet of you. At the end of the current turn, the spirit explodes, and each creature within 5 feet of it must succeed on a Dexterity saving throw or take 1d6 force damage. Until your rage ends, you can use this effect again, summoning another spirit, on each of your turns as a bonus action. |
-| 4 | Magic infuses one weapon of your choice that you are holding. Until your rage ends, the weapon's damage type changes to force, and it gains the light and thrown properties, with a normal range of 20 feet and a long range of 60 feet. If the weapon leaves your hand, the weapon reappears in your hand at the end of the current turn. |
-| 5 | 	Whenever a creature hits you with an attack roll before your rage ends, that creature takes 1d6 force damage, as magic lashes out in retribution. |
-| 6 | Until your rage ends, you are surrounded by multicolored, protective lights; you gain a +1 bonus to AC, and while within 10 feet of you, your allies gain the same bonus. |
-| 7 | Flowers and vines temporarily grow around you; until your rage ends, the ground within 15 feet of you is difficult terrain for your enemies. |
-| 8 | A bolt of light shoots from your chest. Another creature of your choice that you can see within 30 feet of you must succeed on a Constitution saving throw or take 1d6 radiant damage and be blinded until the start of your next turn. Until your rage ends, you can use this effect again on each of your turns as a bonus action. |
+| 1 | Tentáculos sombrios açoitam ao seu redor. Cada criatura a sua escolha que você pode ver a até 9 metros de você deve ter sucesso em um teste de resistência de Constituição ou sofrer 1d12 de dano necrótico. Você também ganha 1d12 pontos de vida temporários. |
+| 2 | Você se teleporta para até 9m em um lugar desocupado que você possa ver. Até que sua fúria se encerre, você pode ativar este efeito novamente em cada um de seus turnos com uma ação bônus. |
+| 3 | Um espírito intangível, que se parece com um flumph ou uma pixie, aparece a menos de 1,5m de uma criatura de sua escolha que você pode ver a menos de 9 metros de você. No final do turno atual, o espírito explode, e cada criatura a 1,5 m dele deve ser bem-sucedida em um teste de resistência de Destreza ou sofrerá 1d6 de dano de força. Até que sua fúria termine, você pode usar este efeito novamente, convocando outro espírito, em cada um de seus turnos como uma ação bônus. |
+| 4 | A magia infunde uma arma de sua escolha que você está segurando. Até que sua fúria termine, o tipo de dano da arma muda para energia, e ela ganha as propriedades leve e arremesso, com um alcance normal de 6 metros e um alcance longo de 18 metros. Se a arma sair de sua mão, a arma reaparece em sua mão no final do turno atual. |
+| 5 | Sempre que uma criatura o atinge com uma jogada de ataque antes que sua fúria termine, aquela criatura sofre 1d6 de dano de energia, enquanto a magia ataca em retribuição. |
+| 6 | Até que sua fúria termine, você está cercado por luzes protetoras multicoloridas: você ganha +1 de bônus na CA e, enquanto estiver a 3 metros de você, seus aliados ganham o mesmo bônus. |
+| 7 | Flores e vinhas crescem temporariamente ao seu redor: até que sua fúria termine, o solo a cerca de 4,5 metros de você é um terreno difícil para seus inimigos. |
+| 8 | Um raio de luz sai de seu peito. Outra criatura de sua escolha que você possa ver a até 9 metros de você deve ter sucesso em um teste de resistência de Constituição ou sofrer 1d6 de dano radiante e ficar cega até o início de seu próximo turno. Até que sua fúria termine, você pode usar este efeito novamente em cada um de seus turnos como uma ação bônus. |
 
-### Bolstering Magic
+### Fortalecimento Mágico
 
-Beginning at 6th level, you can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:
+No 6º nível, você pode aproveitar sua magia selvagem para fortalecer a si mesmo ou a um companheiro. Como uma ação, você pode tocar uma criatura (que pode ser você mesmo) e conferir um dos seguintes benefícios de sua escolha a essa criatura:
 
-* For 10 minutes, the creature can roll a d3 whenever making an attack roll or an ability check and add the number rolled to the d20 roll.
-* Roll a d3. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature’s choice). Once a creature receives this benefit, that creature can’t receive it again until after a long rest.
-  
-You can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+* **Benção Selvagem**: Por 10 minutos, a criatura pode rolar um d4 sempre que fizer uma jogada de ataque ou um teste de habilidade e adicionar o número rolado à jogada de d20.
+* **Bateria Mágica**: Role um d3. A criatura recupera um espaço de magia gasto, o nível do qual é igual ao número rolado ou menor (a escolha da criatura). Depois que uma criatura recebe este benefício, ela não pode recebê-lo novamente até depois de um longo descanso.
+* 
+Você pode realizar esta ação um número de vezes igual ao seu bônus de proficiência e você recupera todos os usos gastos quando terminar um Descanso Longo.
