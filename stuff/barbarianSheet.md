@@ -12,16 +12,18 @@ Tempo passado em Feywild explica a Fúria (emoções a flor da pele) e o Caminho
 
 ### História
 
-**Origem**: Seu pai, Turik tão forte quanto negligente, frequentemente perdia Durik de vista, este mais propenso a vagar do que em pensar no caminho trilhado. Seus pés e sua curiosidade tendiam a levar Durik a lugares longinquos, inoportunos, inexplorados, proibidos e perigosos. Curiosamente, seus pés pareciam capazes de encontrar qualquer caminho, exceto o de volta para casa.
+**Origem**: Seu pai, Turik tão forte quanto negligente, frequentemente perdia Durik de vista, este mais propenso a vagar do que em pensar no caminho trilhado. Seus pés e sua curiosidade tendiam a levar Durik a lugares longinquos, inoportunos, inexplorados, proibidos e perigosos, através de bosques e clareiras, córregos e estradas, becos e quintais. Curiosamente, seus pés pareciam capazes de encontrar qualquer caminho, exceto o de volta para casa.
 
-Foi o seu hábito de vagar que, um dia, levou Durik ao encontro de uma Fey(fada?), esta que lhe tomou gosto, certamente reconhecendo no jovem o talento para estar em lugares que não deveria estar. ....
+O descuido de Turik em manter seu filho sob sua vigia, os pés ligeiros de Durik prontos para fugir na primeira oportunidade, os bosques vislumbrantes ...
 
-
-**O retorno**: Seu falho senso de direção, que um dia levou Durik a Feywild, por fim, o levou novamente ao plano material. Não tanto retornando, como perdendo-se novamente.   .....
+A fada guiou Durik pelos caminhos sinuosos do bosque, caminhos esses que se tornavam mais vislumbrantes e magníficos conforme aprofundavam-se na estranha vastidão diante deles. A cada passo as cores ao redor se tornavam mais vívidas, os sons mais claros, os odores mais fortes e a flora mais espetacular. Logo nada restara do bosque tal como Durik o conhecia, seus olhos maravilhados com as terras presentes adiante. A imensidão e beleza sobrenaturais da Feywild, disposta a sua frente, implorando para ser explorada.
 
 **Bárbaro**: Feywild transformou Durik. Suas emoções, tão naturalmente vívidas em Feywild, agora ....
 
-**Anseio**: Feywild, dia após dia, ocupa menos espaço nas memórias de Durik, mas não em seu coração. Confiando sempre no caminho trilhado por seus pés, explora o plano material ....    
+**O retorno**: Seu falho senso de direção, que um dia levou Durik a Feywild, por fim, o levou novamente ao plano material. Não tanto retornando, como perdendo-se novamente.   .....
+
+
+**Anseio**: Feywild, dia após dia, ocupa menos espaço nas memórias de Durik, mas não em seu coração. Confiando sempre no caminho trilhado por seus pés, explora o plano material ....
 
 ### Personalidade
 * Fey Mark: Your ears are covered with soft tufts of fur
