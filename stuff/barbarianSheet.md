@@ -14,17 +14,15 @@ Tempo passado em Faéria explica a Fúria (emoções a flor da pele) e o Caminho
 
 **Origem**: Seu pai, Turik tão forte quanto negligente, frequentemente perdia Durik de vista, este mais propenso a vagar do que em pensar no caminho trilhado. Seus pés e sua curiosidade tendiam a levar Durik a lugares longinquos, inoportunos, inexplorados, proibidos e perigosos, através de bosques e clareiras, córregos e estradas, becos e quintais. Curiosamente, seus pés pareciam capazes de encontrar qualquer caminho, exceto o de volta para casa.
 
+Na mais recente falha de Turik em manter seu filho sobre sua vigia, Durik seguiu em direção ao seu destino favorito quando fugindo de seu pai, os bosques ao redor do vilarejo. Foi nessa fuga que Durik veio de encontro com uma criatura a qual jamais antes tinha visto, apesar do longo tempo que passou explorando os bosques. Uma fada, pequenina, com asas de inseto e pele brilhante, voando no meio de uma pequena clareira entre as árvores. Tão logo quanto Durik vislubrou a fada, ela percebeu também a presença do pequeno Durik. Certamente identificando os traços de alguém com tendências a estar em lugares que não deveria, a fada imediatamente tomou gosto por Durik, e excitadamente sinalizou para que fosse seguida.
 
-Os bosques que cercavam o vilarejo eram o destino favorito de Durik, quando em fuga da vigia falha de seu pai. Foi em uma dessas falhas de Turik em manter seu filho sob sua vigia que o pequeno Durik    
-
-O descuido de Turik em manter seu filho sob sua vigia, os pés ligeiros de Durik prontos para fugir na primeira oportunidade, os bosques vislumbrantes ...
-
-
-A fada guiou Durik pelos caminhos sinuosos do bosque, caminhos esses que se tornavam mais vislumbrantes e magníficos conforme aprofundavam-se na estranha vastidão diante deles. A cada passo as cores ao redor se tornavam mais vívidas, os sons mais claros, os odores mais fortes e a flora mais espetacular. Logo nada restara do bosque tal como Durik o conhecia, seus olhos maravilhados com as terras presentes adiante. A imensidão e beleza sobrenaturais da Faéria, disposta a sua frente, implorando para ser explorada.
+Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bosque, caminhos esses que se tornavam mais vislumbrantes e magníficos conforme aprofundavam-se na estranha vastidão diante deles. A cada passo as cores ao redor se tornavam mais vívidas, os sons mais claros, os odores mais fortes e a flora mais espetacular. Logo nada restara do bosque tal como Durik o conhecia, seus olhos maravilhados com as terras reveladas pela fada, presentes adiante. A imensidão e beleza sobrenaturais da Faéria, disposta a sua frente, implorando para ser explorada.
 
 **Bárbaro**: Explorar a Faéria provava-se tanto gratificante quanto desafiador. Durik sempre foi melhor em usar seus músculos do que seu cérebro, e esses músculos constantemente se faziam necessários para sobreviver o ambiente hostíl da Faéria. Emoções eram sentidas de maneira mais intensa neste plano, e Durik encontrou na fúria ardente a energia necessária para enfrentar as ameaças que se apresentavam.
 
 **O retorno**: Seu falho senso de direção, que um dia levou Durik a Faéria, por fim, o levou novamente ao plano material. Não tanto retornando, como perdendo-se novamente.   .....
+
+**Baldur's Gate**
 
 ## Traços de personalidade
 
