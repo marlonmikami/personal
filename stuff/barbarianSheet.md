@@ -6,9 +6,9 @@
 
 ## Personagem
 
-### Antecedente: Feylost
+### Antecedente: Perdido Entre As Fadas
 
-Tempo passado em Feywild explica a Fúria (emoções a flor da pele) e o Caminho da Magia Selvagem 
+Tempo passado em Faéria explica a Fúria (emoções a flor da pele) e o Caminho da Magia Selvagem 
 
 ### História
 
@@ -20,31 +20,28 @@ Os bosques que cercavam o vilarejo eram o destino favorito de Durik, quando em f
 O descuido de Turik em manter seu filho sob sua vigia, os pés ligeiros de Durik prontos para fugir na primeira oportunidade, os bosques vislumbrantes ...
 
 
-A fada guiou Durik pelos caminhos sinuosos do bosque, caminhos esses que se tornavam mais vislumbrantes e magníficos conforme aprofundavam-se na estranha vastidão diante deles. A cada passo as cores ao redor se tornavam mais vívidas, os sons mais claros, os odores mais fortes e a flora mais espetacular. Logo nada restara do bosque tal como Durik o conhecia, seus olhos maravilhados com as terras presentes adiante. A imensidão e beleza sobrenaturais da Feywild, disposta a sua frente, implorando para ser explorada.
+A fada guiou Durik pelos caminhos sinuosos do bosque, caminhos esses que se tornavam mais vislumbrantes e magníficos conforme aprofundavam-se na estranha vastidão diante deles. A cada passo as cores ao redor se tornavam mais vívidas, os sons mais claros, os odores mais fortes e a flora mais espetacular. Logo nada restara do bosque tal como Durik o conhecia, seus olhos maravilhados com as terras presentes adiante. A imensidão e beleza sobrenaturais da Faéria, disposta a sua frente, implorando para ser explorada.
 
-**Bárbaro**: Explorar a Feywild provava-se tanto gratificante quanto desafiador. Durik sempre foi melhor em usar seus músculos do que seu cérebro, e esses músculos constantemente se faziam necessários para sobreviver o ambiente hostíl da Feywild. Emoções eram sentidas de maneira mais intensa neste plano, e Durik encontrou na fúria ardente a energia necessária para enfrentar as ameaças que se apresentavam.
+**Bárbaro**: Explorar a Faéria provava-se tanto gratificante quanto desafiador. Durik sempre foi melhor em usar seus músculos do que seu cérebro, e esses músculos constantemente se faziam necessários para sobreviver o ambiente hostíl da Faéria. Emoções eram sentidas de maneira mais intensa neste plano, e Durik encontrou na fúria ardente a energia necessária para enfrentar as ameaças que se apresentavam.
 
-**O retorno**: Seu falho senso de direção, que um dia levou Durik a Feywild, por fim, o levou novamente ao plano material. Não tanto retornando, como perdendo-se novamente.   .....
+**O retorno**: Seu falho senso de direção, que um dia levou Durik a Faéria, por fim, o levou novamente ao plano material. Não tanto retornando, como perdendo-se novamente.   .....
 
+## Traços de personalidade
 
-**Anseio**: Feywild, dia após dia, ocupa menos espaço nas memórias de Durik, mas não em seu coração. Confiando sempre no caminho trilhado por seus pés, explora o plano material ....
-
-## Características
-
-### Personality
-* Like a nomad, I can't settle down in one place for very long.
+### Traços
+* Como um nômade, não consigo me estabelecer no mesmo lugar por muito tempo.
 
 ### Ideals
-* **Wanderlust**. I prefer to take the less traveled path.
+* **Explorador**. Prefiro seguir o caminho menos percorrido.
 
-### Bonds
-* I'm drawn to the Feywild and long to return there, if only for a short while.
+### Vínculos
+* Sou encatado pela Faéria, e desejo voltar lá, mesmo que brevemente.
 
-### Flaws
-* I'm forgetful. Sometimes I can't remember even the simplest things.
+### Fraquezas
+* Sou esquecido. Às vezes não me lembro das coisas mais simples.
 
 ### Extra
-* Fey Mark: Your ears are covered with soft tufts of fur
+* Marca Faérica: Suas orelhas são cobertas por tufos de pelos
 * Não sabe ler, se recusa a aprender
 * Emoções a flor da pele
 
@@ -140,3 +137,13 @@ No 6º nível, você pode aproveitar sua magia selvagem para fortalecer a si mes
 * **Bateria Mágica**: Role um d3. A criatura recupera um espaço de magia gasto, o nível do qual é igual ao número rolado ou menor (a escolha da criatura). Depois que uma criatura recebe este benefício, ela não pode recebê-lo novamente até depois de um longo descanso.
 * 
 Você pode realizar esta ação um número de vezes igual ao seu bônus de proficiência e você recupera todos os usos gastos quando terminar um Descanso Longo.
+
+
+-------------------
+
+Sempre que você estiver em sono ou transe profundo durante um descanso longo, um espírito da Faéria pode lhe fazer uma visita, se o DM assim desejar. Determine a forma do espírito jogando na tabela Visitante da Faéria. Nada de ruim acontece durante estas visitas, que podem durar minutos ou até horas, e você se lembra de cada visita quando acorda. As conversas com um desses visitantes podem conter vários elementos, desde mensagens e novas ideias até bobagens e pistas falsas, a critério do DM. Essas conversas são sempre conduzidas em um idioma que você consiga entender, mesmo que o visitante da Faéria não fale tal idioma normalmente.
+
+
+
+
+
