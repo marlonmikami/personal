@@ -2,7 +2,7 @@
 * **Nome**: Durik
 * **Raça**: Humano
 * **Classe**: Bárbaro (Wild Magic)
-* **Idade**: 19
+* **Idade**: 22
 
 ## Personagem
 
@@ -21,8 +21,6 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
 **Bárbaro**: Explorar a Faéria provava-se tanto gratificante quanto desafiador. Durik sempre foi melhor em usar seus músculos do que seu cérebro, e esses músculos constantemente se faziam necessários para sobreviver o ambiente hostíl da Faéria. Emoções eram sentidas de maneira mais intensa neste plano, e Durik encontrou na fúria ardente a energia necessária para enfrentar as ameaças que se apresentavam.
 
 **O retorno**: Enquanto sua entrada em Faéria se deu num local onde seu plano natal e Faéria se mesclavam de maneira ambígua, seu retorno a seu plano natal aconteceu de maneira muito mais abrupta. Durik, explorando áreas ainda não conhecidas de Fáeria, deparou-se com um portal misterioso. Durik sentiu o portal o chamando, da mesma maneira que o desconhecido a ser explorado sempre o chamou. Apesar de apreensivo, ele adentrou o portal e deparou-se novamente com seu plano de origem, em terras desconhecidas.
-
-**Baldur's Gate**:  
 
 ## Traços de personalidade
 
@@ -54,7 +52,8 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
 * **Armas**: Armas simples, armas marciais
 * **Ferramentas**: Nenhuma
 * **Testes de Resistência**: Força, Constituição
-* **Perícias**: Escolha duas dentre Adestrar Animais, Atletismo, Intimidação, Natureza, Percepção
+* **Perícias**: Enganação, Sobrevivência, Percepção, Atletismo
+* **Idiomas**: Silvestre
 
 ## Progressão
 * Lvl 1:
