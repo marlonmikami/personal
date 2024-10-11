@@ -20,9 +20,9 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
 
 **Bárbaro**: Explorar a Faéria provava-se tanto gratificante quanto desafiador. Durik sempre foi melhor em usar seus músculos do que seu cérebro, e esses músculos constantemente se faziam necessários para sobreviver o ambiente hostíl da Faéria. Emoções eram sentidas de maneira mais intensa neste plano, e Durik encontrou na fúria ardente a energia necessária para enfrentar as ameaças que se apresentavam.
 
-**O retorno**: Enquanto sua entrada em Faéria se deu num local onde o plano material e Faéria se mesclavam de maneira ambígua, seu retorno ao plano material aconteceu de maneira muito mais abrupta. Durik, explorando áreas ainda não conhecidas de Fáeria, deparou-se com um portal misterioso. Durik sentiu o portal o chamando, da mesma maneira que o desconhecido a ser explorado sempre o chamou. Apesar de apreensivo, ele adentrou o portal e deparou-se com o plano material, em terras desconhecidas.
+**O retorno**: Enquanto sua entrada em Faéria se deu num local onde seu plano natal e Faéria se mesclavam de maneira ambígua, seu retorno a seu plano natal aconteceu de maneira muito mais abrupta. Durik, explorando áreas ainda não conhecidas de Fáeria, deparou-se com um portal misterioso. Durik sentiu o portal o chamando, da mesma maneira que o desconhecido a ser explorado sempre o chamou. Apesar de apreensivo, ele adentrou o portal e deparou-se novamente com seu plano de origem, em terras desconhecidas.
 
-**Baldur's Gate**: 
+**Baldur's Gate**:  
 
 ## Traços de personalidade
 
