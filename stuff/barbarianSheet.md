@@ -36,7 +36,7 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
 ### Fraquezas
 * Sou esquecido. Às vezes não me lembro das coisas mais simples.
 
-### Extra
+### Características Extra
 * Marca Faérica: Suas orelhas são cobertas por tufos de pelos
 * Não sabe ler, se recusa a aprender
 * Emoções a flor da pele
@@ -74,7 +74,10 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
 * Lvl 6:
   * Fortalecimento Mágico
 
-## Lembretes
+---
+# Lembretes
+
+## Relacionados à Classe
 
 ### Fúria 
 No seu turno, você pode entrar em fúria com uma ação bônus.
@@ -102,6 +105,8 @@ A partir do 2° nível, você pode desistir de toda preocupação com sua defesa
 No 2° nível, você adquire um sentido sobrenatural de quando as coisas próximas não estão como deveriam, concedendo a você uma chance maior quando estiver evitando perigos.
 
 Você possui vantagem em testes de resistência de Destreza contra efeitos que você possa ver, como armadilhas e magias. Para receber esse benefício você não pode estar cego, surdo ou incapacitado.
+
+## Caminho da Magia Selvagem
 
 ### Vestígios Mágicos
 
@@ -136,9 +141,26 @@ No 6º nível, você pode aproveitar sua magia selvagem para fortalecer a si mes
 Você pode realizar esta ação um número de vezes igual ao seu bônus de proficiência e você recupera todos os usos gastos quando terminar um Descanso Longo.
 
 
--------------------
+## Relacionados ao Antecedente
+
+### Visitante da Faéria
 
 Sempre que você estiver em sono ou transe profundo durante um descanso longo, um espírito da Faéria pode lhe fazer uma visita, se o DM assim desejar. Determine a forma do espírito jogando na tabela Visitante da Faéria. Nada de ruim acontece durante estas visitas, que podem durar minutos ou até horas, e você se lembra de cada visita quando acorda. As conversas com um desses visitantes podem conter vários elementos, desde mensagens e novas ideias até bobagens e pistas falsas, a critério do DM. Essas conversas são sempre conduzidas em um idioma que você consiga entender, mesmo que o visitante da Faéria não fale tal idioma normalmente.
+
+
+| d8 | Efeito |
+|---|---|
+| 1 | Criatura desperta (uma fera ou planta comum na qual foi conjurada a magia *despertar*) |
+| 2 | Centauro |
+| 3 | Dríade |
+| 4 | Dragão fada |
+| 5 | Pixie |
+| 6 | Sátiro |
+| 7 | Sprite |
+| 8 | Unicórnio |
+
+### Característica: Conexão com a Faéria
+Seus maneirismos e conhecimento dos costumes feéricos são reconhecidos pelos nativos da Faéria, que o veem como um deles. Por este motivo, criaturas feéricas amigáveis tendem a te auxiliar caso você esteja perdido ou precise de ajuda na Faéria.
 
 
 
