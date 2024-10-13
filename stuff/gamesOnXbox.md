@@ -4,7 +4,7 @@
 * Chasm *
 * Cuphead
 * Dragon Ball Xenoverse *
-* **Elden RIng**
+* **Elden Ring**
 * Fell Seal *
 * Hellblade
 * **Hogwarts Legacy**
@@ -12,9 +12,9 @@
 * Lords of the Fallen
 * Metal Gear Solid V
 * Nier Automata
-* **A Plague Tale
-* **Rayman Origins *
-* **Rayman Legends *
+* **A Plague Tale**
+* Rayman Origins *
+* Rayman Legends *
 * Red Dead Redemption 1 *
 * Regalia: Of Men and Monarchs *
 * **Sekiro**
