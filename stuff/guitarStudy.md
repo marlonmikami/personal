@@ -2,6 +2,15 @@
 
 ## Study plan
 
+* Estudar notas no braço do violão e intervalos
+* Prática com metrônomo
+* Acordes, prática de formação
+* Leitura de partitura
+* Exercícios de batida
+* Prática de percepção de intervalos, escalas, acordes
+* Escala Maior
+* Expandir repertório
+
 ## Songs to learn on the guitar
 
 ### Classical Pieces
