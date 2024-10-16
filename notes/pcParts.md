@@ -26,9 +26,48 @@
 
 ### DEEPCOOL CH370 (mATX)
 
+Same size as a atx? what's the point then?
+
 1 120mm fan, GPU support
 
 * [Ch370, white (Kabum)](https://www.kabum.com.br/produto/459711/gabinete-gamer-deepcool-ch370-wh-vidro-temperado-1x-fan-incluso-branco-r-ch370-whnam1-g-1): 516,60
 * [Ch370, black (Kabum)](https://www.kabum.com.br/produto/459711/gabinete-gamer-deepcool-ch370-wh-vidro-temperado-1x-fan-incluso-branco-r-ch370-whnam1-g-1): 501,98
 * [Ch370, black (playerid)](https://www.playerid.com.br/produto/gabinete-gamer-deepcool-ch370-r-ch370-bknam1-g-1.html): 429,84
 
+### Others
+
+* [Aigo Darkflash DRX90](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-drx90-mesh-mid-tower-lateral-de-vidro-branco-drx90-mesh-wh)
+* [Darkflash DS210](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-ds210-mid-tower-lateral-de-vidro-branco-ds210-white)
+* [Pichau Apus White](https://www.pichau.com.br/gabinete-gamer-pichau-apus-white-mid-tower-lateral-de-vidro-temperado-com-3-fans-branco-pg-aps-wht01)
+* [Aigo Darkflash DS210](https://www.pichau.com.br/gabinete-gamer-aigo-darkflash-ds210-mid-tower-lateral-de-vidro-branco-ds210-white)
+* [Pichau HX300M](https://www.pichau.com.br/gabinete-gamer-pichau-hx300m-glass-mid-tower-lateral-de-vidro-branco-pg-hx3-whm1)
+* [Cooler Master Masterbox Q300L](https://www.pichau.com.br/gabinete-gamer-cooler-master-masterbox-q300l-lateral-de-acrilico-1-fan-branco-mcb-q300l-wann-s00)
+
+## CPU
+
+### RYZEN 5 5600
+
+## GPU
+
+### RTX 4060
+
+---
+
+* Keyboard: Attack Shark K86
+
+
+---
+
+PCI Express 3.0 or 4.0?
+
+USB C ?
+
+Ram speed? 3600MHz?
+
+Motherboard, nvme 2, not sata
+
+Aliexpress nvme?
+
+Get Case with a bunch of fans already?
+
+Redragon Azure?
