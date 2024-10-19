@@ -7,8 +7,20 @@
 
 ### Self Improvement
 * [Elisha Long](https://www.youtube.com/@ElishaLong/videos)
-* [The Bioneer](https://www.youtube.com/@TheBioneer)
-* [Wanhee Kim](https://www.youtube.com/@wanheekim/videos)
+* [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
+* [Luana Carolina](https://www.youtube.com/@TheBioneer/videos)
+
+### Nice youtube channels
+* [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
+* [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
+* [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
+
+### Music
+* [Alexandra Whittingham](https://www.youtube.com/@AlexandraWhittingham/videos)
+* [First To Eleven](https://www.youtube.com/@FirstToEleven/videos)
+* [Gabriella Quevedo](https://www.youtube.com/@Gabriella9797/videos)
+* [Iron Cross](https://www.youtube.com/@TheIronCrossBand/videos)
+* [Sofia Karlberg](https://www.youtube.com/@sofiakarlbergs/videos)
 
 ---
 
