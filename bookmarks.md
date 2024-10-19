@@ -7,16 +7,18 @@
 
 ### Self Improvement
 * [Elisha Long](https://www.youtube.com/@ElishaLong/videos)
-* [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
 * [Luana Carolina](https://www.youtube.com/@TheBioneer/videos)
+* [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
 
 ### Nice youtube channels
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
-* [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
+* [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
+* [Rick Beato](https://www.youtube.com/@RickBeato/videos)
 
 ### Music
 * [Alexandra Whittingham](https://www.youtube.com/@AlexandraWhittingham/videos)
+* [Andreea Munteanu](https://www.youtube.com/@AndreeaMunteanuSinger/videos)
 * [First To Eleven](https://www.youtube.com/@FirstToEleven/videos)
 * [Gabriella Quevedo](https://www.youtube.com/@Gabriella9797/videos)
 * [Iron Cross](https://www.youtube.com/@TheIronCrossBand/videos)
