@@ -120,16 +120,16 @@ Iniciando no 3º nível, a magia irrompe de você conforme você entra em fúria
 
 Se o surto selvagem requerer um teste de Resistência, a CD será igual a 8 + seu bônus de proficiência + seu modificador de Constituição.
 
-| d8 | Efeito |
-|---|---|
-| 1 | Tentáculos sombrios açoitam ao seu redor. Cada criatura a sua escolha que você pode ver a até 9 metros de você deve ter sucesso em um teste de resistência de Constituição ou sofrer 1d12 de dano necrótico. Você também ganha 1d12 pontos de vida temporários. |
-| 2 | Você se teleporta para até 9m em um lugar desocupado que você possa ver. Até que sua fúria se encerre, você pode ativar este efeito novamente em cada um de seus turnos com uma ação bônus. |
-| 3 | Um espírito intangível, que se parece com um flumph ou uma pixie, aparece a menos de 1,5m de uma criatura de sua escolha que você pode ver a menos de 9 metros de você. No final do turno atual, o espírito explode, e cada criatura a 1,5 m dele deve ser bem-sucedida em um teste de resistência de Destreza ou sofrerá 1d6 de dano de força. Até que sua fúria termine, você pode usar este efeito novamente, convocando outro espírito, em cada um de seus turnos como uma ação bônus. |
-| 4 | A magia infunde uma arma de sua escolha que você está segurando. Até que sua fúria termine, o tipo de dano da arma muda para energia, e ela ganha as propriedades leve e arremesso, com um alcance normal de 6 metros e um alcance longo de 18 metros. Se a arma sair de sua mão, a arma reaparece em sua mão no final do turno atual. |
-| 5 | Sempre que uma criatura o atinge com uma jogada de ataque antes que sua fúria termine, aquela criatura sofre 1d6 de dano de energia, enquanto a magia ataca em retribuição. |
-| 6 | Até que sua fúria termine, você está cercado por luzes protetoras multicoloridas: você ganha +1 de bônus na CA e, enquanto estiver a 3 metros de você, seus aliados ganham o mesmo bônus. |
-| 7 | Flores e vinhas crescem temporariamente ao seu redor: até que sua fúria termine, o solo a cerca de 4,5 metros de você é um terreno difícil para seus inimigos. |
-| 8 | Um raio de luz sai de seu peito. Outra criatura de sua escolha que você possa ver a até 9 metros de você deve ter sucesso em um teste de resistência de Constituição ou sofrer 1d6 de dano radiante e ficar cega até o início de seu próximo turno. Até que sua fúria termine, você pode usar este efeito novamente em cada um de seus turnos como uma ação bônus. |
+| d8  | Efeito                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Tentáculos sombrios açoitam ao seu redor. Cada criatura a sua escolha que você pode ver a até 9 metros de você deve ter sucesso em um teste de resistência de Constituição ou sofrer 1d12 de dano necrótico. Você também ganha 1d12 pontos de vida temporários.                                                                                                                                                                                                                            |
+| 2   | Você se teleporta para até 9m em um lugar desocupado que você possa ver. Até que sua fúria se encerre, você pode ativar este efeito novamente em cada um de seus turnos com uma ação bônus.                                                                                                                                                                                                                                                                                                |
+| 3   | Um espírito intangível, que se parece com um flumph ou uma pixie, aparece a menos de 1,5m de uma criatura de sua escolha que você pode ver a menos de 9 metros de você. No final do turno atual, o espírito explode, e cada criatura a 1,5 m dele deve ser bem-sucedida em um teste de resistência de Destreza ou sofrerá 1d6 de dano de força. Até que sua fúria termine, você pode usar este efeito novamente, convocando outro espírito, em cada um de seus turnos como uma ação bônus. |
+| 4   | A magia infunde uma arma de sua escolha que você está segurando. Até que sua fúria termine, o tipo de dano da arma muda para energia, e ela ganha as propriedades leve e arremesso, com um alcance normal de 6 metros e um alcance longo de 18 metros. Se a arma sair de sua mão, a arma reaparece em sua mão no final do turno atual.                                                                                                                                                     |
+| 5   | Sempre que uma criatura o atinge com uma jogada de ataque antes que sua fúria termine, aquela criatura sofre 1d6 de dano de energia, enquanto a magia ataca em retribuição.                                                                                                                                                                                                                                                                                                                |
+| 6   | Até que sua fúria termine, você está cercado por luzes protetoras multicoloridas: você ganha +1 de bônus na CA e, enquanto estiver a 3 metros de você, seus aliados ganham o mesmo bônus.                                                                                                                                                                                                                                                                                                  |
+| 7   | Flores e vinhas crescem temporariamente ao seu redor: até que sua fúria termine, o solo a cerca de 4,5 metros de você é um terreno difícil para seus inimigos.                                                                                                                                                                                                                                                                                                                             |
+| 8   | Um raio de luz sai de seu peito. Outra criatura de sua escolha que você possa ver a até 9 metros de você deve ter sucesso em um teste de resistência de Constituição ou sofrer 1d6 de dano radiante e ficar cega até o início de seu próximo turno. Até que sua fúria termine, você pode usar este efeito novamente em cada um de seus turnos como uma ação bônus.                                                                                                                         |
 
 ### Fortalecimento Mágico
 
@@ -148,16 +148,16 @@ Você pode realizar esta ação um número de vezes igual ao seu bônus de profi
 Sempre que você estiver em sono ou transe profundo durante um descanso longo, um espírito da Faéria pode lhe fazer uma visita, se o DM assim desejar. Determine a forma do espírito jogando na tabela Visitante da Faéria. Nada de ruim acontece durante estas visitas, que podem durar minutos ou até horas, e você se lembra de cada visita quando acorda. As conversas com um desses visitantes podem conter vários elementos, desde mensagens e novas ideias até bobagens e pistas falsas, a critério do DM. Essas conversas são sempre conduzidas em um idioma que você consiga entender, mesmo que o visitante da Faéria não fale tal idioma normalmente.
 
 
-| d8 | Efeito |
-|---|---|
-| 1 | Criatura desperta (uma fera ou planta comum na qual foi conjurada a magia *despertar*) |
-| 2 | Centauro |
-| 3 | Dríade |
-| 4 | Dragão fada |
-| 5 | Pixie |
-| 6 | Sátiro |
-| 7 | Sprite |
-| 8 | Unicórnio |
+| d8  | Efeito                                                                                 |
+| --- | -------------------------------------------------------------------------------------- |
+| 1   | Criatura desperta (uma fera ou planta comum na qual foi conjurada a magia *despertar*) |
+| 2   | Centauro                                                                               |
+| 3   | Dríade                                                                                 |
+| 4   | Dragão fada                                                                            |
+| 5   | Pixie                                                                                  |
+| 6   | Sátiro                                                                                 |
+| 7   | Sprite                                                                                 |
+| 8   | Unicórnio                                                                              |
 
 ### Característica: Conexão com a Faéria
 Seus maneirismos e conhecimento dos costumes feéricos são reconhecidos pelos nativos da Faéria, que o veem como um deles. Por este motivo, criaturas feéricas amigáveis tendem a te auxiliar caso você esteja perdido ou precise de ajuda na Faéria.

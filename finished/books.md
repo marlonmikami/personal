@@ -31,46 +31,46 @@
 
 
 
-|English Title|Portuguese Title|Author(s) |Status        |
-|-------------|----------------|----------|--------------|
-|Breath: The New Science of a Lost Art|Respire: A Nova Ciência de Uma Arte Perdida|James Nestor|Read          |
-|Can't hurt me|Nada pode me ferir|David Goggins|Read          |
-|Daphnis and Chloe|                |Longus    |Read          |
-|Deep Work    |Trabalho Profundo|Cal Newport|Read          |
-|Dhammapada   |Dhammapada      |Unknown   |Read          |
-|Este não é mais um livro de dieta: O novo e libertador estilo de vida alimentar para saúde e boa forma que derruba o conceito de dietas|Este não é mais um livro de dieta: O novo e libertador estilo de vida alimentar para saúde e boa forma que derruba o conceito de dietas|Rodrigo Polesso|Read          |
-|Four Thousand Weeks: Time Management for Mortals|Quatro Mil Semanas: Gestão de Tempo Para Mortais|Oliver Burkeman|Read          |
-|How to Not Die Alone: The Surprising Science That Will Help You Find Love|Como encontrar seu par: Usando a ciência comportamental para criar um relacionamento saudável e duradouro|Logan Ury |Read          |
-|Jewels of Gwahlur (audiobook)|                |Robert E. Howard|Read          |
-|Models: Attract Women Through Honesty|                |Mark Manson|Read          |
-|Show Your Work!|Mostre Seu Trabalho!|Austin Kleon|Read          |
-|Strange Case Of Dr. Jekyll And Mr. Hyde (audiobook)|                |Robert Louis Stevenson|Read          |
-|The Adventures of Tom Sawyer|As aventuras de Tom Sawyer|Mark Twain|Read          |
-|The Almanack of Naval Ravikant: A Guide to Wealth and Happiness|O almanaque de Naval Ravikant: Um guia para a riqueza e a felicidade|Eric Jorgenson|Read          |
-|The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness|A arte de viver: O manual clássico da virtude, felicidade e sabedoria|Epictetus, Sharon Lebell|Read          |
-|The Darkening Age: The Christian Destruction of the Classical World|                |Catherine Nixey|Read          |
-|The Go-Giver |                |Bob Burg, John David Mann|Read          |
-|The Great Gatsby|O grande Gatsby |F. Scott Fitzgerald|Read          |
-|The Magic of Thinking Big|A mágica de pensar grande|David J. Schwartz|Read          |
-|The Male Advantage|                |Kris Sturmey|Read          |
-|The Millionaire Fastlane|                |M. J. DeMarco|Read          |
-|The Neurotic's Guide to Avoiding Enlightenment: How the Left-Brain Plays Unending Games of Self-Improvement|                |Chris Niebauer Ph.D.|Dropped       |
-|The Old Man and The Sea|                |Ernest Hemingway|Read          |
-|The Princess Bride|A Princesa Prometida|William Goldman|Read          |
-|The Surrender Experiment: My Journey into Life's Perfection|                |Michael A. Singer|Read          |
-|The Tower of the Elephant (audiobook)|                |Robert E. Howard|Read          |
-|The UNIX-HATERS Handbook|                |Simson L. Garfinkel|Read          |
-|Uprooted     |                |Naomi Novik|Read          |
-|Welcome to the NHK|Bem-vindo a N.H.K|Tatsuhiko Takimoto|Read          |
-|Who Moved My Cheese|Quem mexeu no meu queijo?|Spencer Johnson|Read          |
+| English Title                                                                                                                           | Portuguese Title                                                                                                                        | Author(s)                 | Status  |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------- |
+| Breath: The New Science of a Lost Art                                                                                                   | Respire: A Nova Ciência de Uma Arte Perdida                                                                                             | James Nestor              | Read    |
+| Can't hurt me                                                                                                                           | Nada pode me ferir                                                                                                                      | David Goggins             | Read    |
+| Daphnis and Chloe                                                                                                                       |                                                                                                                                         | Longus                    | Read    |
+| Deep Work                                                                                                                               | Trabalho Profundo                                                                                                                       | Cal Newport               | Read    |
+| Dhammapada                                                                                                                              | Dhammapada                                                                                                                              | Unknown                   | Read    |
+| Este não é mais um livro de dieta: O novo e libertador estilo de vida alimentar para saúde e boa forma que derruba o conceito de dietas | Este não é mais um livro de dieta: O novo e libertador estilo de vida alimentar para saúde e boa forma que derruba o conceito de dietas | Rodrigo Polesso           | Read    |
+| Four Thousand Weeks: Time Management for Mortals                                                                                        | Quatro Mil Semanas: Gestão de Tempo Para Mortais                                                                                        | Oliver Burkeman           | Read    |
+| How to Not Die Alone: The Surprising Science That Will Help You Find Love                                                               | Como encontrar seu par: Usando a ciência comportamental para criar um relacionamento saudável e duradouro                               | Logan Ury                 | Read    |
+| Jewels of Gwahlur (audiobook)                                                                                                           |                                                                                                                                         | Robert E. Howard          | Read    |
+| Models: Attract Women Through Honesty                                                                                                   |                                                                                                                                         | Mark Manson               | Read    |
+| Show Your Work!                                                                                                                         | Mostre Seu Trabalho!                                                                                                                    | Austin Kleon              | Read    |
+| Strange Case Of Dr. Jekyll And Mr. Hyde (audiobook)                                                                                     |                                                                                                                                         | Robert Louis Stevenson    | Read    |
+| The Adventures of Tom Sawyer                                                                                                            | As aventuras de Tom Sawyer                                                                                                              | Mark Twain                | Read    |
+| The Almanack of Naval Ravikant: A Guide to Wealth and Happiness                                                                         | O almanaque de Naval Ravikant: Um guia para a riqueza e a felicidade                                                                    | Eric Jorgenson            | Read    |
+| The Art of Living: The Classical Manual on Virtue, Happiness, and Effectiveness                                                         | A arte de viver: O manual clássico da virtude, felicidade e sabedoria                                                                   | Epictetus, Sharon Lebell  | Read    |
+| The Darkening Age: The Christian Destruction of the Classical World                                                                     |                                                                                                                                         | Catherine Nixey           | Read    |
+| The Go-Giver                                                                                                                            |                                                                                                                                         | Bob Burg, John David Mann | Read    |
+| The Great Gatsby                                                                                                                        | O grande Gatsby                                                                                                                         | F. Scott Fitzgerald       | Read    |
+| The Magic of Thinking Big                                                                                                               | A mágica de pensar grande                                                                                                               | David J. Schwartz         | Read    |
+| The Male Advantage                                                                                                                      |                                                                                                                                         | Kris Sturmey              | Read    |
+| The Millionaire Fastlane                                                                                                                |                                                                                                                                         | M. J. DeMarco             | Read    |
+| The Neurotic's Guide to Avoiding Enlightenment: How the Left-Brain Plays Unending Games of Self-Improvement                             |                                                                                                                                         | Chris Niebauer Ph.D.      | Dropped |
+| The Old Man and The Sea                                                                                                                 |                                                                                                                                         | Ernest Hemingway          | Read    |
+| The Princess Bride                                                                                                                      | A Princesa Prometida                                                                                                                    | William Goldman           | Read    |
+| The Surrender Experiment: My Journey into Life's Perfection                                                                             |                                                                                                                                         | Michael A. Singer         | Read    |
+| The Tower of the Elephant (audiobook)                                                                                                   |                                                                                                                                         | Robert E. Howard          | Read    |
+| The UNIX-HATERS Handbook                                                                                                                |                                                                                                                                         | Simson L. Garfinkel       | Read    |
+| Uprooted                                                                                                                                |                                                                                                                                         | Naomi Novik               | Read    |
+| Welcome to the NHK                                                                                                                      | Bem-vindo a N.H.K                                                                                                                       | Tatsuhiko Takimoto        | Read    |
+| Who Moved My Cheese                                                                                                                     | Quem mexeu no meu queijo?                                                                                                               | Spencer Johnson           | Read    |
 
 
 
-|English Title|Portuguese Title|Author(s) |Status        |
-|-------------|----------------|----------|--------------|
-|Essentialism: The Disciplined Pursuit of Less|Essencialismo: A disciplinada busca por menos|Greg Mckeown|Reading       |
-|How To Win Friends and Influence People|Como fazer amigos e influenciar pessoas|Dale Carnegie|Reading       |
-|Iliad        |Ilíada          |Homero    |Reading       |
-|Mindset: The New Psychology of Success|Mindset: A nova psicologia do sucesso|Carol S. Dweck|Reading       |
-|Mythology: Timeless Tales of Gods and Heroes|Mitologia: Contos imortais de deuses e heróis|Edith Hamilton|Reading       |
-|Think and Grow Rich|Quem Pensa Enriquece|Napoleon Hill|Reading       |
+| English Title                                 | Portuguese Title                              | Author(s)      | Status  |
+| --------------------------------------------- | --------------------------------------------- | -------------- | ------- |
+| Essentialism: The Disciplined Pursuit of Less | Essencialismo: A disciplinada busca por menos | Greg Mckeown   | Reading |
+| How To Win Friends and Influence People       | Como fazer amigos e influenciar pessoas       | Dale Carnegie  | Reading |
+| Iliad                                         | Ilíada                                        | Homero         | Reading |
+| Mindset: The New Psychology of Success        | Mindset: A nova psicologia do sucesso         | Carol S. Dweck | Reading |
+| Mythology: Timeless Tales of Gods and Heroes  | Mitologia: Contos imortais de deuses e heróis | Edith Hamilton | Reading |
+| Think and Grow Rich                           | Quem Pensa Enriquece                          | Napoleon Hill  | Reading |
