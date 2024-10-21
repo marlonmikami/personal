@@ -23,7 +23,6 @@ What do you have in common with others?
 ## Practical
 
 * Before interacting with someone, visualize a positive outcome, not a negative one. That'll set your mood and vibe correctly.
-
 * Put on a smile before talking to people. You don't need to force it, you need to bring yourself to feel like smiling.
 
 
