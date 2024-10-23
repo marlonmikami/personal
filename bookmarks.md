@@ -10,6 +10,11 @@
 * [Luana Carolina](https://www.youtube.com/@TheBioneer/videos)
 * [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
 
+### Magic
+* [3/3 Elk](https://www.youtube.com/@33elk/videos)
+* [Salubrious Snail](https://www.youtube.com/@salubrioussnail/videos)
+* [The Trinket Mage](https://www.youtube.com/@thetrinketmage/videos)
+
 ### Nice youtube channels
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
