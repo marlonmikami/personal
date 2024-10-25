@@ -27,7 +27,7 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
 ### Traços
 * Como um nômade, não consigo me estabelecer no mesmo lugar por muito tempo.
 
-### Ideals
+### Ideais
 * **Explorador**. Prefiro seguir o caminho menos percorrido.
 
 ### Vínculos
@@ -63,11 +63,12 @@ Voando agilmente à sua frente, a fada guiou Durik pelos caminhos sinuosos do bo
   * Ataque descuidado
   * Sentido de perigo
 * Lvl 3:
+  * Conhecimento Primevo
   * Caminho Primitivo: Caminho da Magia Selvagem
   * Vestígios Mágicos
   * Surto Selvagem
 * Lvl 4: 
-  * Feat: Great Weapon Master
+  * Talento: Mestre de Armas Grandes
 * Lvl 5:
   * Ataque extra
   * Movimento rápido
@@ -85,7 +86,7 @@ No seu turno, você pode entrar em fúria com uma ação bônus.
 Enquanto estiver em fúria, você recebe os seguintes benefícios se você não estiver vestindo uma armadura pesada:
 
 * Você tem vantagem em testes de Força e testes de resistência de Força.
-* Quando você desferir um ataque com arma corpo-a-corpo usando Força, você recebe um bônus nas jogadas de dano que aumenta à medida que você adquire níveis de bárbaro, como mostrado na coluna Dano de Fúria na tabela O Bárbaro.
+* Quando você desferir um ataque com arma corpo-a-corpo usando Força, você recebe um bônus nas jogadas de dano que aumenta à medida que você adquire níveis de bárbaro, como mostrado na coluna Dano de Fúria na tabela O Bárbaro. (+2)
 * Você possui resistência contra dano de concussão, cortante e perfurante.
   
 Se você for capaz de conjurar magias, você não poderá conjurá-las ou se concentrar nelas enquanto estiver em fúria.
@@ -105,6 +106,12 @@ A partir do 2° nível, você pode desistir de toda preocupação com sua defesa
 No 2° nível, você adquire um sentido sobrenatural de quando as coisas próximas não estão como deveriam, concedendo a você uma chance maior quando estiver evitando perigos.
 
 Você possui vantagem em testes de resistência de Destreza contra efeitos que você possa ver, como armadilhas e magias. Para receber esse benefício você não pode estar cego, surdo ou incapacitado.
+
+## Conhecimento Primevo
+
+Quando você atinge o 3º nível, você ganha proficiência em uma perícia de sua escolha da lista de perícias disponíveis para bárbaros no primeiro nível.
+
+Além disso, enquanto sua Fúria estiver ativa, você pode canalizar poder primordial quando tentar certas tarefas; sempre que fizer um teste de habilidade usando uma das seguintes perícias, você pode fazê-lo como um teste de Força, mesmo que normalmente use uma habilidade diferente: Acrobacia, Intimidação, Percepção, Furtividade ou Sobrevivência. Quando você usa essa habilidade, sua Força representa poder primordial fluindo através de você, aprimorando sua agilidade, porte e sentidos.
 
 ## Caminho da Magia Selvagem
 
@@ -137,9 +144,15 @@ No 6º nível, você pode aproveitar sua magia selvagem para fortalecer a si mes
 
 * **Benção Selvagem**: Por 10 minutos, a criatura pode rolar um d4 sempre que fizer uma jogada de ataque ou um teste de habilidade e adicionar o número rolado à jogada de d20.
 * **Bateria Mágica**: Role um d3. A criatura recupera um espaço de magia gasto, o nível do qual é igual ao número rolado ou menor (a escolha da criatura). Depois que uma criatura recebe este benefício, ela não pode recebê-lo novamente até depois de um longo descanso.
-* 
+  
 Você pode realizar esta ação um número de vezes igual ao seu bônus de proficiência e você recupera todos os usos gastos quando terminar um Descanso Longo.
 
+## Relactionados a talentos
+
+### Mestre de Armas Grandes
+
+* **Maestria em Arma Pesada**: Quando você acerta uma criatura com uma arma que tem a propriedade Pesada com um ataque no seu turno, você pode fazer com que a arma cause dano extra ao alvo. O dano extra é igual ao seu Bônus de Proficiência.
+* **Golpear e Talhar**: No seu turno, quando você atingir um acerto crítico com uma arma corpo-a-corpo ou reduzir os pontos de vida de uma criatura a 0, você pode realizar um ataque corpo-a-corpo com arma, com uma ação bônus.
 
 ## Relacionados ao Antecedente
 
@@ -160,6 +173,7 @@ Sempre que você estiver em sono ou transe profundo durante um descanso longo, u
 | 8   | Unicórnio                                                                              |
 
 ### Característica: Conexão com a Faéria
+
 Seus maneirismos e conhecimento dos costumes feéricos são reconhecidos pelos nativos da Faéria, que o veem como um deles. Por este motivo, criaturas feéricas amigáveis tendem a te auxiliar caso você esteja perdido ou precise de ajuda na Faéria.
 
 
