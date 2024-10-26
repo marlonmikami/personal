@@ -12,6 +12,7 @@
 
 ### Magic
 * [3/3 Elk](https://www.youtube.com/@33elk/videos)
+* [Play to Win](https://www.youtube.com/@PlaytoWinMTG/videos)
 * [Salubrious Snail](https://www.youtube.com/@salubrioussnail/videos)
 * [The Trinket Mage](https://www.youtube.com/@thetrinketmage/videos)
 
