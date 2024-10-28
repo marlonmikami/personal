@@ -4,7 +4,7 @@
 * Batman games
 * Battle Chasers *
 * Chasm *
-* Cuphead
+* Cuphead (Playing)
 * Dragon Ball Xenoverse *
 * **Elden Ring**
 * Fell Seal *

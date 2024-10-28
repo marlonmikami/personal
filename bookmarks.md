@@ -12,6 +12,7 @@
 
 ### Magic
 * [3/3 Elk](https://www.youtube.com/@33elk/videos)
+* [Alice Blackblade](https://www.youtube.com/@AliceBlackblade/videos)
 * [Play to Win](https://www.youtube.com/@PlaytoWinMTG/videos)
 * [Salubrious Snail](https://www.youtube.com/@salubrioussnail/videos)
 * [The Trinket Mage](https://www.youtube.com/@thetrinketmage/videos)
@@ -20,6 +21,7 @@
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
 * [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
+* [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
 * [Rick Beato](https://www.youtube.com/@RickBeato/videos)
 
 ### Music
@@ -28,6 +30,8 @@
 * [First To Eleven](https://www.youtube.com/@FirstToEleven/videos)
 * [Gabriella Quevedo](https://www.youtube.com/@Gabriella9797/videos)
 * [Iron Cross](https://www.youtube.com/@TheIronCrossBand/videos)
+* [Letícia Eleutério Braga](https://www.youtube.com/@Eleuteriole/videos)
+* [maromaro1337](https://www.youtube.com/@maromaro1337/videos)
 * [Sofia Karlberg](https://www.youtube.com/@sofiakarlbergs/videos)
 
 ---

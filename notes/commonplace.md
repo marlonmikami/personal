@@ -58,3 +58,28 @@ I don't want to wish ill on anyone
 Assume the best of other people
 
 Put yourself out there, treat others with respect, wish the best for others
+
+
+
+---
+
+If I do too many things at the same time, I will not make progress in any of them
+
+Maintenance is always easier than development
+
+If I focus for a few months I can develop a skill. After that, it is easy to maintain, so I can focus on something else.
+
+* 3 hours/day = 21 hours/week
+* 21 hours/week = 84 hours/month
+* 84 hours/month = 168 hours in two months. 252 in three
+
+My free time:
+* From 07:30 to 09:00. 01:30
+* From 12:00 to 13:00. 01:00
+* From 17:00 to 22:00. 05:00
+
+07:30 hours free every day.
+
+I want to learn to play the guitar and sing with the remainder of this year.
+
+I want to learn to fall asleep quickly

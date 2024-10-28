@@ -13,6 +13,10 @@
 
 ## Songs to learn on the guitar
 
+### Songs with meaningful lyrics to me
+* [ ] Tocando Em Frente - Almir Sater
+* [ ] Epitáfio - Titãs
+
 ### Classical Pieces
 
 * [ ] Lagrima - Tárrega
