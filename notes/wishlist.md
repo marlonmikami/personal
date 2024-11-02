@@ -8,6 +8,7 @@
   * [Skull dice](https://pt.aliexpress.com/item/1005007940926405.html?spm=a2g0o.productlist.main.1.6c3a1ef2UXunwk&algo_pvid=489e786f-b83b-48b3-b51c-064b3e2aca5a&algo_exp_id=489e786f-b83b-48b3-b51c-064b3e2aca5a-0&pdp_npi=4%40dis%21BRL%2183.27%2183.27%21%21%2113.94%2113.94%21%402101ec1a17301293601992520e68b3%2112000042948387363%21sea%21BR%210%21ABX&curPageLogUid=z34cOfAxowvi&utparam-url=scene%3Asearch%7Cquery_from%3A)
   * [Fancy](https://pt.aliexpress.com/item/1005005280147246.html?spm=a2g0o.productlist.main.39.16dfXgTLXgTLld&algo_pvid=71203834-63a0-457e-94cc-e6bc4606d94a&aem_p4p_detail=202410280834141149516191573100001532802&algo_exp_id=71203834-63a0-457e-94cc-e6bc4606d94a-19&pdp_npi=4%40dis%21BRL%2184.22%2184.22%21%21%2114.10%2114.10%21%402103245417301296540066029e5839%2112000032470166990%21sea%21BR%210%21ABX&curPageLogUid=h1b644bsrQJZ&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202410280834141149516191573100001532802_5)
 * [ ] Barbarian mini figure
+* [ ] Big water bottle
 
 ## For the office renovation
 * [ ] Couch for the office (mom's chairs?)
@@ -19,7 +20,7 @@
 * [ ] Wireless Keyboard
   * Redragon Azure (Low profile, don't buy ABNT)
   * AULA-F75
-  * Ajazz AK820
+  * Ajazz AK820 Pro (Has volume control wheel)
 * [ ] [Grey mousepad](https://pt.aliexpress.com/item/1005003985448763.html?spm=a2g0o.productlist.main.39.319esBqwsBqwqS&algo_pvid=149046b7-b038-4b98-aa96-ce6c8bdcda5b&aem_p4p_detail=2024102718574435065369458700001456969&algo_exp_id=149046b7-b038-4b98-aa96-ce6c8bdcda5b-19&pdp_npi=4%40dis%21BRL%21126.11%2156.92%21%21%2121.10%219.52%21%402103244417300806639742016e1c05%2112000027644588273%21sea%21BR%210%21ABX&curPageLogUid=feISWfj77ln0&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024102718574435065369458700001456969_5)
 
 ## For the computer

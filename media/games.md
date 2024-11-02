@@ -1,3 +1,47 @@
+## Games to Play
+
+### To play on Xbox before selling it
+
+* Black Flag
+* Batman games
+* Battle Chasers *
+* Chasm *
+* *Cuphead*   (Playing)
+* Dragon Ball Xenoverse *
+* **Elden Ring**
+* Fell Seal *
+* Hellblade
+* **Hogwarts Legacy**
+* The Knight Witch
+* Lords of the Fallen
+* Metal Gear Solid V
+* Nier Automata
+* **A Plague Tale**
+* Rayman Origins *
+* Rayman Legends *
+* Red Dead Redemption 1 *
+* Regalia: Of Men and Monarchs *
+* **Sekiro**
+* Shining Resonance
+* Trine 4
+
+### Games to play soon
+
+* Gunstar Heroes (Mega Drive)
+* Castlevania Bloodlines (Mega Drive)
+* Final Fantasy III (Sens)
+* Parasite Eve (PS1)
+* Metal Gear Solid (PS1)
+* Legend of Zelda, The - The Minish Cap (GBA)
+* Pokémon Unbound (GBA)
+* Mary Skelter: Nightmares (PSVita)
+* Gravity rush (PSVita)
+* Muramasa: The Demon Blade (PSVita)
+
+
+
+# Finished Games
+
 ### PC
 
 * Angry Video Game Nerd Adventures
@@ -77,6 +121,7 @@
 * Pokemon Blue
 * Pokemon Red
 * Pokemon Yellow
+* Pokemon Yellow Legacy
 
 ### Game Boy Color
 
