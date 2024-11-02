@@ -1,5 +1,9 @@
 ## Games to Play
 
+### Playing
+* Cuphead (Xbox)
+* Shovel Knight
+
 ### To play on Xbox before selling it
 
 * Black Flag
@@ -37,6 +41,9 @@
 * Mary Skelter: Nightmares (PSVita)
 * Gravity rush (PSVita)
 * Muramasa: The Demon Blade (PSVita)
+* Sense: A Cyberpunk Ghost Story (PSVita)
+* Odin Sphere: Leifthrasir (PSVita)
+* Resident Evil: Revelations 2
 
 
 
