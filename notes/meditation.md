@@ -1,0 +1,17 @@
+
+### Samatha 
+
+### Vipassanā
+
+
+
+
+
+
+
+
+
+
+
+
+jhanas 

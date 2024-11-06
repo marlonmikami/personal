@@ -1,4 +1,44 @@
-### Finished
+# Anime
+
+### Watching
+
+* Giji Harem
+
+### To Watch Next
+
+* Dan Da Dan
+
+### To Watch Eventualy
+
+* Bakemonogatari
+* Bakuretsu Hunters
+* Battle Programmer Shirase
+* Casshern Sins
+* Deadman Wonderland
+* Fushigi no Umi no Nadia
+* Gakkou no Kaidan
+* Girls und Panzer
+* Gunbuster
+* Gun Frontier
+* Jubei-chan The Ninja Girl
+* Karas
+* Katanagatari
+* Kuragehime
+* Legend of Black Heaven
+* Legend of Galactic Heroes
+* Michiko to Hatchin
+* Mononoke
+* Nagi no Asukara
+* Nazo no Kanojo X
+* Patlabor - Kido Keisatsu Patlabor
+* Ookami-san to Shichinin no Nakama-tachi
+* Rainbow - Nisha Rokubou no Shichinin
+* Samurai Champloo
+* So Ra No Wo To
+* Sunabouzu (Desert Punk)
+* Tegami Bachi
+
+## Finished
 
 * 5-toubun no Hanayome (The Quintessential Quintuplets)
 * Afro Samurai
@@ -106,7 +146,7 @@
 * Zom 100
 * Zombie Land Saga
 
-### Dropped
+## Dropped
 
 * Arakawa Under The Bridge
 * Baccano!
@@ -121,38 +161,5 @@
 * Sakigake! Cromartie High
 * Serial Experiments Lain
 * Tengen Toppa Gurren Lagann
-
-### To Watch
-
-* Bakemonogatari
-* Bakuretsu Hunters
-* Battle Programmer Shirase
-* Casshern Sins
-* Cream Lemon: Lemon Angel
-* Deadman Wonderland
-* Fushigi no Umi no Nadia
-* Gakkou no Kaidan
-* Girls und Panzer
-* Gunbuster
-* Gun Frontier
-* Jubei-chan The Ninja Girl
-* Karas
-* Katanagatari
-* Kuragehime
-* Legend of Black Heaven
-* Legend of Galactic Heroes
-* Michiko to Hatchin
-* Mononoke
-* Nagi no Asukara
-* Nazo no Kanojo X
-* Patlabor - Kido Keisatsu Patlabor
-* Ookami-san to Shichinin no Nakama-tachi
-* Rainbow - Nisha Rokubou no Shichinin
-* Samurai Champloo
-* Sakura Diaries
-* So Ra No Wo To
-* Strange Love
-* Sunabouzu (Desert Punk)
-* Tegami Bachi
 
 

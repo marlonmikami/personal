@@ -38,7 +38,9 @@ Just as the sky remains untouched by passing clouds, you (awareness) remain unto
 
 Remove tension, remove what isn't you
 
+"What’s something useful and enjoyable I can do now?" instead of "What is my true mission in life?"
 
+"Regretting ethical mistakes makes us less likely to repeat them. However, acknowledging their inevitability means that we can let go of ethical anxiety. Ethical maturity is measured by the ability to find good-enough solutions to ethical problems, not by the amount you punish yourself."
 
 ### Thoughts
 
@@ -60,6 +62,7 @@ Assume the best of other people
 Put yourself out there, treat others with respect, wish the best for others
 
 
+Don't torture yourself with things that you have to do for longer than it would take to do them
 
 ---
 

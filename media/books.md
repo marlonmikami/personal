@@ -1,3 +1,13 @@
+# Books
+
+### Books to buy/get
+
+* Siddhartha (Hermann Hesse)
+* Metamorphosis (Franz Kafka)
+* Crime and Punishment (Fyodor Dostoevsky)
+
+---
+
 |English Title|Portuguese Title|Author(s) |Status        |
 |-------------|----------------|----------|--------------|
 |$100M Offers: How To Make Offers So Good People Feel Stupid Saying No|                |Alex Hormozi|Not started   |

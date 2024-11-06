@@ -1,4 +1,15 @@
-### Manga
+# Manga
+
+### Reading
+
+### To Read
+
+* Berserk
+* Mashle
+* Vagabond
+* Vinland Saga
+
+## Finished
 
 * A Divorced Crybaby Has Moved in Next Door
 * Amagami - Dreamy Forever
@@ -24,6 +35,7 @@
 * Ore no Himekutsu o Haite Kure
 * Oyasumi Punpun
 * Parasyte (Kiseijuu)
+* Please Don't Bully Me, Nagatoro
 * Rough Sketch Senpai
 * Rurouni Kenshin
 * Shaman King

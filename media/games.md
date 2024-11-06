@@ -1,4 +1,4 @@
-## Games to Play
+# Games
 
 ### Playing
 * Cuphead (Xbox)
@@ -44,6 +44,7 @@
 * Sense: A Cyberpunk Ghost Story (PSVita)
 * Odin Sphere: Leifthrasir (PSVita)
 * Resident Evil: Revelations 2
+* Ultima IV: Quest of the Avatar
 
 
 
@@ -217,4 +218,5 @@
 * Ori and the Blind Forest
 * Outer Worlds
 * Persona 5 Royal
+* Street Fighter 6
 * Yoku's Island Express

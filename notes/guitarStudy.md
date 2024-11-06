@@ -19,7 +19,7 @@
 
 ### Classical Pieces
 
-* [ ] Lagrima - Tárrega
+* [ ] Lágrima - Tárrega
 * [ ] Adelita - Tárrega
 * [ ] Badinerie - Bach
 * [ ] Bourrée - Bach
