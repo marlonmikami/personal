@@ -1,6 +1,5 @@
 # home
 
-* [.index](./index/.index.md)
 * [archive](./index/archive.md)
 * [guitar](./index/guitar.md)
 * [media](./index/media.md)
