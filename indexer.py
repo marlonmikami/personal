@@ -4,16 +4,16 @@ import shutil
 from os.path import isfile, exists
 
 # files and folders to be ignored when indexing
-ignoreList = [".git", ".index", "assets", "indexer.py"]
+ignoreList = [".git", "index", "assets", "indexer.py"]
 
 def deleteAndCreateIndexFolder():
     if exists("Home.md"):
         os.remove("Home.md")
-    if exists(".index"):
-        shutil.rmtree(".index", True)
-    os.makedirs(".index")
+    if exists("index"):
+        shutil.rmtree("index", True)
+    os.makedirs("index")
     FILE_ATTRIBUTE_HIDDEN = 0x02
-    ctypes.windll.kernel32.SetFileAttributesW(".index", FILE_ATTRIBUTE_HIDDEN)
+    ctypes.windll.kernel32.SetFileAttributesW("index", FILE_ATTRIBUTE_HIDDEN)
 
 def createIndexFileForFolder(folderName, folderPath, isRootFolder):
     """Creates a markdown file that indexes the current folder"""
@@ -41,7 +41,7 @@ def createIndexFileForFolder(folderName, folderPath, isRootFolder):
         createIndexFileForFolder(folder[0], folder[1], False)
 
     # create the markdown file and append its contents
-    indexFilePath = "./.index/" + folderName + ".md";
+    indexFilePath = "./index/" + folderName + ".md";
     if isRootFolder:
         indexFilePath = "./home.md"
     with open(indexFilePath, "x") as markdownFile:
@@ -60,7 +60,7 @@ def createMarkdownList(list, isFolderList, isRootFolder):
         if (not isRootFolder):
             itemPath = "." + itemPath
         if isFolderList:
-            itemPath = itemPath.replace("./","./.index/") + ".md"
+            itemPath = itemPath.replace("./","./index/") + ".md"
         fileMarkdownContent += "\n* [" + itemName + "](" + itemPath + ")"
         
     return fileMarkdownContent
