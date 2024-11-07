@@ -1,0 +1,16 @@
+# notes
+
+* [2025Plan](../notes/2025Plan.md)
+* [barbarianSheet](../notes/barbarianSheet.md)
+* [commonplace](../notes/commonplace.md)
+* [fitness](../notes/fitness.md)
+* [guitarStudy](../notes/guitarStudy.md)
+* [homeServer](../notes/homeServer.md)
+* [lookInto](../notes/lookInto.md)
+* [meditation](../notes/meditation.md)
+* [neverForget](../notes/neverForget.md)
+* [socialSkills](../notes/socialSkills.md)
+* [spiritual](../notes/spiritual.md)
+* [streetFighter6](../notes/streetFighter6.md)
+* [whoAmI](../notes/whoAmI.md)
+* [wishlist](../notes/wishlist.md)

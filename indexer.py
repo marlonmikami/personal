@@ -3,6 +3,8 @@ import ctypes
 import shutil
 from os.path import isfile, exists
 
+ignoreList = [".git", ".index", "assets", "indexer.py"]
+
 def deleteAndCreateIndexFolder():
     if exists("Home.md"):
         os.remove("Home.md")
@@ -12,41 +14,57 @@ def deleteAndCreateIndexFolder():
     FILE_ATTRIBUTE_HIDDEN = 0x02
     ctypes.windll.kernel32.SetFileAttributesW(".index", FILE_ATTRIBUTE_HIDDEN)
 
-def createIndexFileForFolder(folderName):
+
+
+def createIndexFileForFolder(folderName, folderPath):
     """Creates a markdown file that indexes the current folder"""
 
-    # gets all the folders and files in the current directory
-    files = []
-    folders = []
+    # gets all the relevant folders and the markdown files in the current directory
+    filesList = []
+    foldersList = []
     filesAndFolders = os.listdir(folderName)
     for x in filesAndFolders:
-        if isfile(x):
-            if x.endswith(".md"):
-                files.append(x.split(".")[0])
-        else:
-            folders.append(x)
+        name = x
+        path = folderPath + "/" + name
+        if (x not in ignoreList):
+            if isfile(folderName + "/" + x):
+                filesList.append([name,path])
+            else:
+                foldersList.append([name, path])
 
     # the root folder gets special treatment
-    folderName = folderName.lower() if folderName != "." else "home"
+    folderName = folderName if (folderName != ".") else "home"
 
-    # for the current folder, build a string with the markdown contents
-    markdownFileContent = buildMarkdownString(folderName, files)
+    # create the content that goes into the markdown file
+    markdownFileContent = "# " + folderName + "\n"
+    markdownFileContent += createMarkdownList(foldersList, True)
+    markdownFileContent += createMarkdownList(filesList, False)
+
+    # for each folder in the current folder, call this function
+    for folder in foldersList:
+        createIndexFileForFolder(folder[0], folder[1])
 
     # create the markdown file and append its contents
-    with open(folderName + ".md", "x") as markdownFile:
+    with open(".index/" + folderName + ".md", "x") as markdownFile:
         markdownFile.write(markdownFileContent)
 
-    print (markdownFileContent)
+    #print (markdownFileContent)
 
-def buildMarkdownString(folderName, files):
-    """For the current folder, build a string with the markdown contents"""
 
-    fileMarkdownContent = "# " + folderName + "\n"
-    for file in files:
-        fileName = file.replace(".md", "")
-        fileMarkdownContent += "\n* [" + fileName + "](" + fileName + ".md)"
+
+def createMarkdownList(list, isFolderList):
+    """Get a list of files or folder and builds a string with a markdown list"""
+    fileMarkdownContent = ""
+    for item in list:
+        itemName = item[0].replace(".md", "")
+        itemPath = item[1]
+        if isFolderList:
+            itemPath = itemPath.replace("./","./.index/") + ".md"
+        fileMarkdownContent += "\n* [" + itemName + "](" + itemPath + ")"
         
     return fileMarkdownContent
 
+
+
 deleteAndCreateIndexFolder()
-createIndexFileForFolder(".")
+createIndexFileForFolder(".", "..")
