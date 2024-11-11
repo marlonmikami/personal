@@ -21,6 +21,7 @@
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
 * [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
+* [Civvie 11](https://www.youtube.com/@Civvie11/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
 * [Rick Beato](https://www.youtube.com/@RickBeato/videos)
 

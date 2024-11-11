@@ -4,7 +4,7 @@ import shutil
 from os.path import isfile, exists
 
 # files and folders to be ignored when indexing
-ignoreList = [".git", "index", "assets", "indexer.py", "_layouts"]
+ignoreList = ["index", "assets", "indexer.py"]
 
 def deleteAndCreateIndexFolder():
     if exists("Home.md"):
@@ -25,7 +25,7 @@ def createIndexFileForFolder(folderName, folderPath, isRootFolder):
     for x in filesAndFolders:
         name = x
         path = folderPath + "/" + name
-        if (x not in ignoreList):
+        if (name not in ignoreList) and (not name.startswith(".")) and (not name.startswith("_")):
             if isfile(folderName + "/" + x):
                 filesList.append([name,path])
             else:
