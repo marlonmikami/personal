@@ -20,9 +20,12 @@
 ### Nice youtube channels
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
+* [Bryan Johnson](https://www.youtube.com/@BryanJohnson/videos)
 * [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
+* [Cinzia DuBois 2](https://www.youtube.com/@CinziaDuBois/videos)
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
+* [NotJustBikes](https://www.youtube.com/@NotJustBikes/videos)
 * [Rick Beato](https://www.youtube.com/@RickBeato/videos)
 
 ### Music

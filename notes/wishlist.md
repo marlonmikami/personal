@@ -3,8 +3,8 @@
 ## Christmas gifts
 
 * [x] Mom: perfume Eudora, velvet cristal
-* [x] Dad: 
-* [ ] Carol: cetaphil, hidratante, pote
+* [ ] Dad: 
+* [x] Carol: cetaphil, hidratante, pote
 * [ ] Aldir: 
 * [ ] Malcon: 
 * [ ] Keila: camisa branca (formal), óleo de banho
@@ -15,12 +15,11 @@
 * [ ] [Titanium earring](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-zirconia/)
 * [ ] Electric Toothbrush
 * [ ] Card Holder
-* [ ] Barbarian mini figure
-* [ ] Big water bottle
 * [ ] [Buttons for hitbox ?](https://pt.aliexpress.com/item/1005007240498991.html?gatewayAdapt=glo2bra)
 * [ ] [Wheels for chair](https://www.pichau.com.br/conjunto-de-rodinhas-pichau-soft-75mm-pg-rds-bk01)
 * [ ] Palha indiana for the rack
 * [ ] [Bookself for the bedroom](https://www.madeiramadeira.com.br/estante-para-livros-baixa-7-prateleiras-137-5cmx136cm-london-yescasa-791764.html?id=791764&buildId=Rrq51uTbc5_wvbw4JOCTJ)
+* [ ] Blackout Curtains
 
 ## For the office renovation
 * [ ] Couch for the office (mom's chairs?)
@@ -44,9 +43,11 @@
 * [x] Memória XPG Gammix D35, 16GB 3200MHz     (2024-11-06)
 * [x] Ventoinha Cooler Master Sickleflow 120   (2024-11-06)
 * [x] Fan controller                           (2024-11-06)
-* [x] Grey mousepad                            (2024-11-06)
+* [x] Gray mousepad                            (2024-11-06)
 * [x] 2 sets of dice (2/2)                     (2024-11-09)
+* [x] Big water bottle                         (2024-11-09)
 * [x] Monitor light                            (2024-11-11)
 * [x] Wireless Mouse                           (2024-11-11)
 * [x] Wireless Keyboard                        (2024-11-11)
-* [ ] Soundbar for the PC                      (2024-11-11)
+* [x] Soundbar for the PC                      (2024-11-11)
+* [x] Barbarian mini figure                    (2024-11-11)

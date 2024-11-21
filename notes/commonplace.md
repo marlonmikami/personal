@@ -34,6 +34,8 @@ The present moment doesn't need to be anything other than what it is. It is up t
 
 ### Others
 
+He who has a WHY can bear almost any HOW
+
 Just as the sky remains untouched by passing clouds, you (awareness) remain untouched by passing thoughts.
 
 Remove tension, remove what isn't you
@@ -86,3 +88,16 @@ My free time:
 I want to learn to play the guitar and sing with the remainder of this year.
 
 I want to learn to fall asleep quickly
+
+
+
+
+
+
+
+
+
+
+
+
+"It took me almost two decades to figure out even half of this on my own. I was tortured as a child. Tortured by my classmates' constant bullying and my parents' apathy and abuse. Tortured by the relationships and opportunities I missed out on because of fear and trauma. When I went off to college, I isolated myself to prevent that pain from going on any longer. After I graduated, I realized that I had wasted those four years. I've now been in the workforce for over three years. Only this year was I able to actually find happiness by accepting that I had a troubled childhood which made navigating early adulthood a near impossible task. Finally I realized that I shouldn't be leaving my apartment to make friends and have relationships. I should be leaving my apartment because it's what I want to do. That's when I finally felt joy in being around others, rather than the terror I had felt my entire life. Like Sisyphus, I accepted my boulder for what it was. And I felt pride in carrying such a massive boulder up so far."
