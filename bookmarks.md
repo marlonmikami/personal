@@ -31,6 +31,7 @@
 ### Music
 * [Alexandra Whittingham](https://www.youtube.com/@AlexandraWhittingham/videos)
 * [Andreea Munteanu](https://www.youtube.com/@AndreeaMunteanuSinger/videos)
+* [Edson Lopes](https://www.youtube.com/@edsonlopesguitar/videos)
 * [First To Eleven](https://www.youtube.com/@FirstToEleven/videos)
 * [Gabriella Quevedo](https://www.youtube.com/@Gabriella9797/videos)
 * [Iron Cross](https://www.youtube.com/@TheIronCrossBand/videos)

@@ -31,6 +31,10 @@
 
 ## Choiceless awareness
 
+## Third eye meditation
+
+## Tantric masturbation
+
 
 
 Pranayama

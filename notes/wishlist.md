@@ -5,11 +5,9 @@
 * [x] Mom: perfume Eudora, velvet cristal
 * [ ] Dad: 
 * [x] Carol: cetaphil, hidratante, pote
-* [ ] Aldir: 
 * [ ] Malcon: 
 * [ ] Keila: camisa branca (formal), óleo de banho
 * [ ] Thais: quadro branco, perfume, good girl
-* [ ] Joeser: cesta de natal
 
 ## To buy
 * [ ] [Titanium earring](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-zirconia/)
@@ -24,8 +22,9 @@
 ## For the office renovation
 * [ ] Couch for the office (mom's chairs?)
 * [ ] New TV (120hz)
+  * Samsumg QN90D (wait a little more and get this one) ***
   * [Philips the One (bad light bleed, 55IPS, 65VA? thing that darkens the screen(ips only?))](https://www.amazon.com.br/Philips-55PUG8808-78-Ambilight-Freesync/dp/B0CCJYZL18)
-  * [Samsumg Q70D (poor blacks, light bleed (only on max brightness)) *](https://www.amazon.com.br/Samsung-Smart-QLED-55Q70D-Tecnologia/dp/B0CYNDRS9L)
+  * [Samsumg Q70D (poor blacks, light bleed (only on max brightness))](https://www.amazon.com.br/Samsung-Smart-QLED-55Q70D-Tecnologia/dp/B0CYNDRS9L)
 * [ ] [Soundbar for the TV](https://www.mercadolivre.com.br/caixa-de-som-soundbar-20-tomate-bluetooth-110w-mts-2033-cor-preto-110v220v/p/MLB23556117#wid%3DMLB3721988765%26sid%3Dsearch%26searchVariation%3DMLB23556117%26position%3D7%26search_layout%3Dgrid%26type%3Dproduct%26tracking_id%3De1bb9d75-47cc-4d34-867a-43725911af00)
 * [ ] [Pegboard](https://produto.mercadolivre.com.br/MLB-3708624419-pegboard-premium-mdf-setup-gamer-home-office-branco-deitado-_JM#reviews)
 * [ ] [3D pannels](https://shopee.com.br/Kit-16-e-50-Placas-PVC-3D-25x25-Revestimento-de-Parede-Decorativa-i.695249516.21797654754?sp_atk=8d22fb63-594b-4ee8-885e-927aa4e3f3d1&xptdk=8d22fb63-594b-4ee8-885e-927aa4e3f3d1)
