@@ -4,6 +4,10 @@
 
 [Video](https://www.youtube.com/watch?v=xSBGYoS6z68)
 
+
+
+
+
 ## Dealing with analysis Paralysis
 
 [Video](https://www.youtube.com/watch?v=-xqPVxsFdP4)
@@ -80,3 +84,14 @@ Decreasing your stress levels with yoga, meditation, detachment and a good night
 * **The more Interoceptive you are, the more loss aversion will hurt**
 
 The more interoceptive you are, the more you pay attention to your internal environment
+
+
+
+---
+https://www.youtube.com/watch?v=eu9uvBYsPXs
+    
+Leave pleasurable things for later in the day
+
+https://www.youtube.com/watch?v=NuHEY7CjjTI
+
+End of thought

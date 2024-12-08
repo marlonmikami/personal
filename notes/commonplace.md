@@ -33,6 +33,15 @@ I want to learn to play the guitar and sing with the remainder of this year.
 
 I want to learn to fall asleep quickly
 
+---
+
+Thoughts are just noise within head. This voice in my head is not who I am, and this is true regardless of if what the voice says is good or bad. I am the one that listen to that voice, not the voice itself.
+
+It is not the job of the mind to figure out how to solve all of your problems. The mind evolved to help you survive in a hunter-gatherer scenario, not to make sense of the modern world, not to try to make everyone like you, not to figure out how to become beautiful, rich, productive and everything else you've been convinced that you need to be.
+
+There is no such thing as "good" or "bad" emotions. Pain is no less worthy of being felt than joy.
+
+Alow yourself to feel your emotions.
 
 
 ### Others
@@ -50,6 +59,10 @@ Remove tension, remove what isn't you
 My suffering can be ennobling, rather than something to be ashamed of
 
 "It took me almost two decades to figure out even half of this on my own. I was tortured as a child. Tortured by my classmates' constant bullying and my parents' apathy and abuse. Tortured by the relationships and opportunities I missed out on because of fear and trauma. When I went off to college, I isolated myself to prevent that pain from going on any longer. After I graduated, I realized that I had wasted those four years. I've now been in the workforce for over three years. Only this year was I able to actually find happiness by accepting that I had a troubled childhood which made navigating early adulthood a near impossible task. Finally I realized that I shouldn't be leaving my apartment to make friends and have relationships. I should be leaving my apartment because it's what I want to do. That's when I finally felt joy in being around others, rather than the terror I had felt my entire life. Like Sisyphus, I accepted my boulder for what it was. And I felt pride in carrying such a massive boulder up so far."
+
+How much longer will you avoid doing what you are capable of, in order to continue with what you are doing?
+
+You may not wish to move your body, but you will never regret it after the fact
 
 
 
