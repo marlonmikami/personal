@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    "README.md": true,
+    "assets": true,
+    "archive": true,
+    "_layouts": true,
+    "indexer.py": true,
+    ".vscode": true,
+    "index": true
+  }
+}

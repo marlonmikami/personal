@@ -21,6 +21,7 @@
 * [ ] Curtains for the bedroom
 * [ ] Vacuum cleaner filer
 * [ ] [Mesh router for mom's house](https://www.amazon.com.br/Roteador-TP-Link-Deco-S7-Dual-Band/dp/B0D4ZM36PG/ref=pd_ci_mcx_pspc_dp_2_t_1?pd_rd_w=Wisgj&content-id=amzn1.sym.55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_p=55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_r=9RFY39A7AGFRJQMY08GH&pd_rd_wg=MhX99&pd_rd_r=5a18d0df-95a2-44a9-b255-61564dcdbca8&pd_rd_i=B0D4ZM36PG)
+* [ ] Kapo for the guitar
 
 ## For the office renovation
 * [ ] Couch for the office (mom's chairs?)
