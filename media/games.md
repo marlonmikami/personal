@@ -3,6 +3,7 @@
 ### Playing
 * Cuphead (Xbox)
 * Shovel Knight
+* Grim Dawn
 
 ### To play on Xbox before selling it
 

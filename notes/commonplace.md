@@ -70,7 +70,7 @@ You may not wish to move your body, but you will never regret it after the fact
 
 ### From _The Surrender Experiment_
 
-"If life was unfolding in a certain way, and the only reason I was resisting it was because of a personal preference, I Would let go of my preference and let life be in charge."
+"If life was unfolding in a certain way, and the only reason I was resisting it was because of a personal preference, I would let go of my preference and let life be in charge."
 
 "Do whatever is put in front of you with all your heart and soul without regard for personal results. Do the work as though it were given to you by the universe itself ─ because it was."
 

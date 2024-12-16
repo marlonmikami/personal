@@ -10,13 +10,15 @@
 * [x] Thais: tênis
 
 ## To buy
-* [ ] [Titanium earring](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-zirconia/)
+* [ ] Titanium earring
+  * [ ] [Round](https://piercingmania.com.br/outros-produtos/7945-brinco-argola-slim-100-em-titanio-16out23.html)
+  * [ ] [With a jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-zirconia/)
 * [ ] Electric Toothbrush
 * [ ] Card Holder
 * [ ] [Buttons for hitbox ?](https://pt.aliexpress.com/item/1005007240498991.html?gatewayAdapt=glo2bra)
 * [ ] [Wheels for chair](https://www.pichau.com.br/conjunto-de-rodinhas-pichau-soft-75mm-pg-rds-bk01)
 * [ ] Palha indiana for the rack
-* [ ] [Bookself for the bedroom](https://www.madeiramadeira.com.br/estante-para-livros-baixa-7-prateleiras-137-5cmx136cm-london-yescasa-791764.html?id=791764&buildId=Rrq51uTbc5_wvbw4JOCTJ)
+* [ ] [Bookshelf for the bedroom](https://www.madeiramadeira.com.br/estante-para-livros-baixa-7-prateleiras-137-5cmx136cm-london-yescasa-791764.html?id=791764&buildId=Rrq51uTbc5_wvbw4JOCTJ)
 * [ ] Blackout Curtains
 * [ ] Curtains for the bedroom
 * [ ] Vacuum cleaner filer
@@ -26,8 +28,8 @@
 ## For the office renovation
 * [ ] Couch for the office (mom's chairs?)
 * [ ] New TV (120hz)
-  * Samsumg QN90D (wait a little more and get this one) ***
-  * [Samsumg Q70D (poor blacks, light bleed (only on max brightness))](https://www.amazon.com.br/Samsung-Smart-QLED-55Q70D-Tecnologia/dp/B0CYNDRS9L)
+  * Samsung QN90D (wait a little more and get this one) ***
+  * [Samsung Q70D (poor blacks, light bleed (only on max brightness))](https://www.amazon.com.br/Samsung-Smart-QLED-55Q70D-Tecnologia/dp/B0CYNDRS9L)
   * [Philips the One (bad light bleed, 55IPS, 65VA? thing that darkens the screen(ips only?))](https://www.amazon.com.br/Philips-55PUG8808-78-Ambilight-Freesync/dp/B0CCJYZL18)
 * [ ] [Soundbar for the TV](https://www.mercadolivre.com.br/caixa-de-som-soundbar-20-tomate-bluetooth-110w-mts-2033-cor-preto-110v220v/p/MLB23556117#wid%3DMLB3721988765%26sid%3Dsearch%26searchVariation%3DMLB23556117%26position%3D7%26search_layout%3Dgrid%26type%3Dproduct%26tracking_id%3De1bb9d75-47cc-4d34-867a-43725911af00)
 * [ ] [27" monitor](https://www.pichau.com.br/monitor-gamer-pichau-centauri-pulse-27-27-pol-ips-2k-165hz-1ms-freesync-hdmi-dp-pg-crpls27-bl01)
@@ -56,3 +58,4 @@
 * [x] Soundbar for the PC                      (2024-11-11)
 * [x] Barbarian mini figure                    (2024-11-11)
 * [x] Headset (Havit Fuxi-H3)                  (2024-12-07)
+* [x] Edifier R1080bt                          (2024-12-05)

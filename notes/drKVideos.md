@@ -12,7 +12,7 @@
 
 [Video](https://www.youtube.com/watch?v=-xqPVxsFdP4)
 
-Your brain makes calculations and your mind warn's you of the consequences. You can't find an answer that compels you to action.
+Your brain makes calculations and your mind warns you of the consequences. You can't find an answer that compels you to action.
 
 The reason for that is that your brain is making intentional misscalculations about the future, which end up paralysing you
 
