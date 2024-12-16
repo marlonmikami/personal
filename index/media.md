@@ -1,6 +1,6 @@
-# media
+# Media
 
-* [anime](../media/anime.md)
-* [books](../media/books.md)
-* [games](../media/games.md)
-* [manga](../media/manga.md)
+* [Anime](../Media/Anime.md)
+* [Books](../Media/Books.md)
+* [Games](../Media/Games.md)
+* [Manga](../Media/Manga.md)

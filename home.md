@@ -1,8 +1,8 @@
 # home
 
-* [guitar](./index/guitar.md)
-* [media](./index/media.md)
-* [notes](./index/notes.md)
-* [recipes](./index/recipes.md)
-* [bookmarks](./bookmarks.md)
-* [wishlist](./wishlist.md)
+* [Guitar](./index/Guitar.md)
+* [Media](./index/Media.md)
+* [Notes](./index/Notes.md)
+* [Recipes](./index/Recipes.md)
+* [Bookmarks](./Bookmarks.md)
+* [Wishlist](./Wishlist.md)

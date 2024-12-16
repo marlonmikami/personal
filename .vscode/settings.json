@@ -4,8 +4,8 @@
     "assets": true,
     "archive": true,
     "_layouts": true,
-    "indexer.py": true,
     ".vscode": true,
-    "index": true
+    "index": true,
+    "indexer.py": true
   }
 }

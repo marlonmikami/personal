@@ -1,9 +1,9 @@
-# recipes
+# Recipes
 
-* [arrozFritoComOvo](../recipes/arrozFritoComOvo.md)
-* [bolinhoDaVo](../recipes/bolinhoDaVo.md)
-* [entrevero](../recipes/entrevero.md)
-* [geleiaDePimentaEMaca](../recipes/geleiaDePimentaEMaca.md)
-* [masalaChai](../recipes/masalaChai.md)
-* [shakshuka](../recipes/shakshuka.md)
-* [torradinhaDeBanana](../recipes/torradinhaDeBanana.md)
+* [Arroz Frito Com Ovo](../Recipes/Arroz Frito Com Ovo.md)
+* [Bolinho Da Vó](../Recipes/Bolinho Da Vó.md)
+* [Entrevero](../Recipes/Entrevero.md)
+* [Geleia de Pimenta e Maçã](../Recipes/Geleia de Pimenta e Maçã.md)
+* [Masala Chai](../Recipes/Masala Chai.md)
+* [Shakshuka](../Recipes/Shakshuka.md)
+* [Torradinha de Banana](../Recipes/Torradinha de Banana.md)

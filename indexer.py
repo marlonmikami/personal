@@ -4,7 +4,7 @@ import shutil
 from os.path import isfile, exists
 
 # files and folders to be ignored when indexing
-ignoreList = ["index", "assets", "archive", "README.md", "indexer.py"]
+ignoreList = ["index", "assets", "archive", "README.md", "indexer.py", "DR K Videos"]
 
 def deleteAndCreateIndexFolder():
     if exists("Home.md"):

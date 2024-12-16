@@ -1,3 +1,3 @@
-# guitar
+# Guitar
 
-* [aondeQuerQueEuVa.html](../guitar/aondeQuerQueEuVa.html)
+* [Aonde Quer Que Eu Vá.html](../Guitar/Aonde Quer Que Eu Vá.html)
