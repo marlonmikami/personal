@@ -12,4 +12,5 @@
 * [Office Renovation](../Notes/Office Renovation.md)
 * [Social Skills](../Notes/Social Skills.md)
 * [Street Fighter6](../Notes/Street Fighter6.md)
+* [testfile](../Notes/testfile.md)
 * [Who Am I](../Notes/Who Am I.md)

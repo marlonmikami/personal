@@ -4,7 +4,6 @@
     "assets": true,
     "archive": true,
     "_layouts": true,
-    ".vscode": true,
-    "index": true
+    ".vscode": true
   }
 }
