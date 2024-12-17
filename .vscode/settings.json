@@ -5,7 +5,6 @@
     "archive": true,
     "_layouts": true,
     ".vscode": true,
-    "index": true,
-    "indexer.py": true
+    "index": true
   }
 }

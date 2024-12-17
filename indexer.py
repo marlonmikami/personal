@@ -44,7 +44,7 @@ def createIndexFileForFolder(folderName, folderPath, isRootFolder):
     indexFilePath = "./index/" + folderName + ".md";
     if isRootFolder:
         indexFilePath = "./home.md"
-    with open(indexFilePath, "x") as markdownFile:
+    with open(indexFilePath, "x", encoding="utf-8") as markdownFile:
         markdownFile.write(markdownFileContent)
 
     #print (markdownFileContent)
