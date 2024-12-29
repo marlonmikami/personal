@@ -1,14 +1,5 @@
 # Wishlist
 
-## Christmas gifts
-
-* [x] Mãe: perfume Eudora, velvet cristal
-* [ ] Pai: espetos?
-* [x] Carol: cetaphil, hidratante, pote
-* [x] Malcon: calça clara, hering, 42~44
-* [x] Keila: bolsa
-* [x] Thais: tênis
-
 ## To buy
 * [ ] Titanium earring
   * [ ] [Round](https://piercingmania.com.br/outros-produtos/7945-brinco-argola-slim-100-em-titanio-16out23.html)
@@ -24,21 +15,20 @@
 * [ ] Vacuum cleaner filer
 * [ ] [Mesh router for mom's house](https://www.amazon.com.br/Roteador-TP-Link-Deco-S7-Dual-Band/dp/B0D4ZM36PG/ref=pd_ci_mcx_pspc_dp_2_t_1?pd_rd_w=Wisgj&content-id=amzn1.sym.55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_p=55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_r=9RFY39A7AGFRJQMY08GH&pd_rd_wg=MhX99&pd_rd_r=5a18d0df-95a2-44a9-b255-61564dcdbca8&pd_rd_i=B0D4ZM36PG)
 * [ ] Kapo for the guitar
+* [ ] Standing desk + Drawers
+* [ ] Buddha Painting: 
+  * [ ] [ammoquadros](https://www.ammoquadros.com.br/quadro-buddha-panoramico-por-joel-santos-p3795) 
+  * [ ] [artepropria](https://www.artepropria.com.br/produtos/Quadro-Decorativo-1-Tela-Zen-Buda-X-3302/)
+  * [ ] [custom](https://www.decoraonline.com.br/quadro-decorativo-personalizado-horizontal)
+* [ ] [Fancy japamala](https://www.lojapoderdaluz.com.br/japamala-pedra-lava-vulcanica-com-rudraksha-108-contas-8-mm--p)
 
 ## For the office renovation
-* [ ] Couch for the office (mom's chairs?)
-* [ ] New TV (120hz)
-  * Samsung QN90D (wait a little more and get this one) ***
-  * [Samsung Q70D (poor blacks, light bleed (only on max brightness))](https://www.amazon.com.br/Samsung-Smart-QLED-55Q70D-Tecnologia/dp/B0CYNDRS9L)
-  * [Philips the One (bad light bleed, 55IPS, 65VA? thing that darkens the screen(ips only?))](https://www.amazon.com.br/Philips-55PUG8808-78-Ambilight-Freesync/dp/B0CCJYZL18)
+* [ ] Couch for the office
 * [ ] [Soundbar for the TV](https://www.mercadolivre.com.br/caixa-de-som-soundbar-20-tomate-bluetooth-110w-mts-2033-cor-preto-110v220v/p/MLB23556117#wid%3DMLB3721988765%26sid%3Dsearch%26searchVariation%3DMLB23556117%26position%3D7%26search_layout%3Dgrid%26type%3Dproduct%26tracking_id%3De1bb9d75-47cc-4d34-867a-43725911af00)
-* [ ] [27" monitor](https://www.pichau.com.br/monitor-gamer-pichau-centauri-pulse-27-27-pol-ips-2k-165hz-1ms-freesync-hdmi-dp-pg-crpls27-bl01)
-* [ ] [USB hub for two computers (Do I need it?)](https://www.mercadolivre.com.br/ugreen-hub-kvm-switch-usb-20-2-pcs-usando-1-tecladomouse/p/MLB24269319#polycard_client=search-nordic&wid=MLB3782477085&sid=search&searchVariation=MLB24269319&position=7&search_layout=grid&type=product&tracking_id=a2cb84ae-0fa2-41e5-93cd-1cc21d8086f2)
-* [ ] [Vertical laptop stand](https://www.mercadolivre.com.br/peko-suporte-mesa-suporte-vertical-preto/p/MLB23513923?product_trigger_id=MLB22547753&quantity=1#reviews)
+* [ ] [27" monitor](https://www.amazon.com.br/Monitor-Gamer-Blade-FreeSync-Display/dp/B0CY7DRTW7)
 
 ## For the computer
 * [ ] [Kit Cabo Sleeved Premium Pichau CS110](https://www.pichau.com.br/kit-cabo-sleeved-premium-pichau-cs110-1x-24p-1x-4-4p-2x-6-2p-300mm-preto-pch-cs110-blk)
-* [ ] 1TB SSD
 * [ ] Wood support to get it off the floor
 
 ## Bought
@@ -59,3 +49,17 @@
 * [x] Barbarian mini figure                    (2024-11-11)
 * [x] Headset (Havit Fuxi-H3)                  (2024-12-07)
 * [x] Edifier R1080bt                          (2024-12-05)
+* [x] 2TB SSD                                  (2024-12-19)
+* [x] TV, Philips 55PUG8808 (The one)          (2024-12-20)
+* [x] Vacuum cleaner filer                     (2024-12-22)
+* [x] Yoga mat                                 (2024-12-22)
+* [x] USB hub switcher for two computers       (2024-12-24)
+* [x] Something to hold laptop under the table (2024-12-24)
+
+## Christmas gifts
+* [x] Mãe: perfume Eudora, velvet cristal
+* [x] Pai: camisa
+* [x] Carol: cetaphil, hidratante, pote
+* [x] Malcon: calça clara, hering, 42~44
+* [x] Keila: bolsa
+* [x] Thais: tênis

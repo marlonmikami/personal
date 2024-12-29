@@ -3,7 +3,6 @@
 ### Playing
 * Cuphead (Xbox)
 * Shovel Knight
-* Grim Dawn
 
 ### To play on Xbox before selling it
 
@@ -69,6 +68,7 @@
 * Elder Scrolls: Skyrim
 * Escape from Butcher Bay
 * Giana Sisters: Twisted Dreams - Rise of the Owlverlord
+* Grim Dawn
 * Half Life
 * Hard Reset
 * Hotline Miami

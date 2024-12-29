@@ -32,7 +32,7 @@ def createIndexFileForFolder(folderName, folderPath, isRootFolder):
                 foldersList.append([name, path])
 
     # create the content that goes into the markdown file
-    markdownFileContent = "# " + (folderName if (not isRootFolder) else "home") + "\n"
+    markdownFileContent = "# " + (folderName if (not isRootFolder) else "Home") + "\n"
     markdownFileContent += createMarkdownList(foldersList, True, isRootFolder)
     markdownFileContent += createMarkdownList(filesList, False, isRootFolder)
 

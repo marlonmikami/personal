@@ -7,6 +7,7 @@
 
 ### Self Improvement
 * [Elisha Long](https://www.youtube.com/@ElishaLong/videos)
+* [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
 * [Luana Carolina](https://www.youtube.com/@luanacarolina.s/videos)
 * [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
 

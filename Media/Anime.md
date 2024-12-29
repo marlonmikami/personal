@@ -103,6 +103,7 @@
 * Love Hina
 * Lovely Complex
 * Mahou Shoujo Madoka Magica
+* Make Heroine ga Oosugiru!
 * Mayo Chiki! ???
 * Megas_XLR
 * Mob Psycho 100
