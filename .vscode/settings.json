@@ -5,7 +5,8 @@
     "archive": true,
     ".vscode": true,
     "_layouts": true,
-    "indexer.py": true
+    "indexer.py": true,
+    ".gitignore": true
   },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.labelFormat": "short",
