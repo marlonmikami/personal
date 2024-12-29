@@ -4,7 +4,8 @@
     "assets": true,
     "archive": true,
     ".vscode": true,
-    "_layouts": true
+    "_layouts": true,
+    "indexer.py": true
   },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.labelFormat": "short",

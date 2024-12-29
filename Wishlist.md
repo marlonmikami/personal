@@ -1,35 +1,25 @@
 # Wishlist
 
 ## To buy
-* [ ] Titanium earring
+* [ ] Titanium earrings
   * [ ] [Round](https://piercingmania.com.br/outros-produtos/7945-brinco-argola-slim-100-em-titanio-16out23.html)
-  * [ ] [With a jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-zirconia/)
+  * [x] [With a jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-agata-preta/)
 * [ ] Electric Toothbrush
-* [ ] Card Holder
+* [ ] [Card Holder](https://www.jouse.com.br/comprar/jouse-serie-1/)
 * [ ] [Buttons for hitbox ?](https://pt.aliexpress.com/item/1005007240498991.html?gatewayAdapt=glo2bra)
 * [ ] [Wheels for chair](https://www.pichau.com.br/conjunto-de-rodinhas-pichau-soft-75mm-pg-rds-bk01)
 * [ ] Palha indiana for the rack
 * [ ] [Bookshelf for the bedroom](https://www.madeiramadeira.com.br/estante-para-livros-baixa-7-prateleiras-137-5cmx136cm-london-yescasa-791764.html?id=791764&buildId=Rrq51uTbc5_wvbw4JOCTJ)
-* [ ] Blackout Curtains
 * [ ] Curtains for the bedroom
-* [ ] Vacuum cleaner filer
 * [ ] [Mesh router for mom's house](https://www.amazon.com.br/Roteador-TP-Link-Deco-S7-Dual-Band/dp/B0D4ZM36PG/ref=pd_ci_mcx_pspc_dp_2_t_1?pd_rd_w=Wisgj&content-id=amzn1.sym.55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_p=55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_r=9RFY39A7AGFRJQMY08GH&pd_rd_wg=MhX99&pd_rd_r=5a18d0df-95a2-44a9-b255-61564dcdbca8&pd_rd_i=B0D4ZM36PG)
 * [ ] Kapo for the guitar
 * [ ] Standing desk + Drawers
-* [ ] Buddha Painting: 
-  * [ ] [ammoquadros](https://www.ammoquadros.com.br/quadro-buddha-panoramico-por-joel-santos-p3795) 
-  * [ ] [artepropria](https://www.artepropria.com.br/produtos/Quadro-Decorativo-1-Tela-Zen-Buda-X-3302/)
-  * [ ] [custom](https://www.decoraonline.com.br/quadro-decorativo-personalizado-horizontal)
 * [ ] [Fancy japamala](https://www.lojapoderdaluz.com.br/japamala-pedra-lava-vulcanica-com-rudraksha-108-contas-8-mm--p)
+* [ ] Wood support to get the computer off the floor
 
 ## For the office renovation
 * [ ] Couch for the office
 * [ ] [Soundbar for the TV](https://www.mercadolivre.com.br/caixa-de-som-soundbar-20-tomate-bluetooth-110w-mts-2033-cor-preto-110v220v/p/MLB23556117#wid%3DMLB3721988765%26sid%3Dsearch%26searchVariation%3DMLB23556117%26position%3D7%26search_layout%3Dgrid%26type%3Dproduct%26tracking_id%3De1bb9d75-47cc-4d34-867a-43725911af00)
-* [ ] [27" monitor](https://www.amazon.com.br/Monitor-Gamer-Blade-FreeSync-Display/dp/B0CY7DRTW7)
-
-## For the computer
-* [ ] [Kit Cabo Sleeved Premium Pichau CS110](https://www.pichau.com.br/kit-cabo-sleeved-premium-pichau-cs110-1x-24p-1x-4-4p-2x-6-2p-300mm-preto-pch-cs110-blk)
-* [ ] Wood support to get it off the floor
 
 ## Bought
 * [x] Retro PC upgrade                         (2024-06-05)
@@ -55,11 +45,4 @@
 * [x] Yoga mat                                 (2024-12-22)
 * [x] USB hub switcher for two computers       (2024-12-24)
 * [x] Something to hold laptop under the table (2024-12-24)
-
-## Christmas gifts
-* [x] Mãe: perfume Eudora, velvet cristal
-* [x] Pai: camisa
-* [x] Carol: cetaphil, hidratante, pote
-* [x] Malcon: calça clara, hering, 42~44
-* [x] Keila: bolsa
-* [x] Thais: tênis
+* [x] New Monitor (LG 24GS60F)                 (2024-12-29)

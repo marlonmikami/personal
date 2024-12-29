@@ -1,4 +1,5 @@
 # FICHA DO PERSONAGEM
+
 * **Nome**: Durik
 * **Raça**: Humano
 * **Classe**: Bárbaro (Wild Magic)
