@@ -22,10 +22,12 @@
 * Bakuman
 * Bonnouji
 * Dangan Tenshi Fan Club
+* Demi-chan wa Kataritai
 * Devilman
 * Dragon Ball
 * Flag Capture in the First Move
 * Fujiyama-san wa Shishunki
+* Gal to Bocchi
 * Gal Gohan
 * Holyland
 * Kuchi ga Saketemo Kimi ni wa
@@ -36,6 +38,7 @@
 * Oyasumi Punpun
 * Parasyte (Kiseijuu)
 * Please Don't Bully Me, Nagatoro
+* Person Sitting Next to Me Looking at Me with Perverted Eyes, The 
 * Rough Sketch Senpai
 * Rurouni Kenshin
 * Shaman King

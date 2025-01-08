@@ -38,6 +38,13 @@
 * Sunabouzu (Desert Punk)
 * Tegami Bachi
 
+## Download when finished airing
+
+* Orb: On the Movements of the Earth
+* Apothecary Diaries
+* Beastars, season 3
+* RE Zero, season 3
+
 ## Finished
 
 * 5-toubun no Hanayome (The Quintessential Quintuplets)

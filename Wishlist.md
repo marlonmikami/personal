@@ -4,12 +4,9 @@
 * [ ] Titanium earrings
   * [ ] [Round](https://piercingmania.com.br/outros-produtos/7945-brinco-argola-slim-100-em-titanio-16out23.html)
   * [x] [With a jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-agata-preta/)
-* [ ] Electric Toothbrush
 * [ ] [Card Holder](https://www.jouse.com.br/comprar/jouse-serie-1/)
 * [ ] [Buttons for hitbox ?](https://pt.aliexpress.com/item/1005007240498991.html?gatewayAdapt=glo2bra)
 * [ ] [Wheels for chair](https://www.pichau.com.br/conjunto-de-rodinhas-pichau-soft-75mm-pg-rds-bk01)
-* [ ] Palha indiana for the rack
-* [ ] [Bookshelf for the bedroom](https://www.madeiramadeira.com.br/estante-para-livros-baixa-7-prateleiras-137-5cmx136cm-london-yescasa-791764.html?id=791764&buildId=Rrq51uTbc5_wvbw4JOCTJ)
 * [ ] Curtains for the bedroom
 * [ ] [Mesh router for mom's house](https://www.amazon.com.br/Roteador-TP-Link-Deco-S7-Dual-Band/dp/B0D4ZM36PG/ref=pd_ci_mcx_pspc_dp_2_t_1?pd_rd_w=Wisgj&content-id=amzn1.sym.55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_p=55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_r=9RFY39A7AGFRJQMY08GH&pd_rd_wg=MhX99&pd_rd_r=5a18d0df-95a2-44a9-b255-61564dcdbca8&pd_rd_i=B0D4ZM36PG)
 * [ ] Kapo for the guitar
@@ -46,3 +43,4 @@
 * [x] USB hub switcher for two computers       (2024-12-24)
 * [x] Something to hold laptop under the table (2024-12-24)
 * [x] New Monitor (LG 24GS60F)                 (2024-12-29)
+* [x] Rice cooker                              (2025-01-02)

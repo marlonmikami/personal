@@ -11,7 +11,7 @@
 
 ## Mettā, loving-kindness
 
-## Sunyata (Shoonya?)
+## Sunyata, shunyata (Shoonya?)
 
 ## Disgust with the body
 
