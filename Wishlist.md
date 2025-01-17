@@ -13,6 +13,9 @@
 * [ ] Standing desk + Drawers
 * [ ] [Fancy japamala](https://www.lojapoderdaluz.com.br/japamala-pedra-lava-vulcanica-com-rudraksha-108-contas-8-mm--p)
 * [ ] Wood support to get the computer off the floor
+* [ ] Water flosser ?
+* [ ] Bidet attachment
+* [ ] Tongue scraper
 
 ## For the office renovation
 * [ ] Couch for the office
