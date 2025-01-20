@@ -27,6 +27,7 @@
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
 * [NotJustBikes](https://www.youtube.com/@NotJustBikes/videos)
+* [OnlyWaifu](https://www.youtube.com/@OnlyWaifuYT/videos)
 * [Rick Beato](https://www.youtube.com/@RickBeato/videos)
 
 ### Music

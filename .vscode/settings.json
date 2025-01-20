@@ -20,5 +20,7 @@
   "editor.lineNumbers": "off",
   //"editor.renderLineHighlight": "gutter"
   "breadcrumbs.enabled": false,
-  "workbench.iconTheme": null
+  "workbench.iconTheme": null,
+  "hide-files.files": [],
+  "files.autoSave": "onFocusChange"
 }
