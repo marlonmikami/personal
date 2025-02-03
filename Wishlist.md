@@ -15,6 +15,7 @@
 * [ ] Wood support to get the computer off the floor
 * [ ] Water flosser ?
 * [ ] Bidet attachment
+* [ ] 5m HDMI 2.1 cable
 
 ## For the office renovation
 * [ ] [Soundbar for the TV](https://www.mercadolivre.com.br/caixa-de-som-soundbar-20-tomate-bluetooth-110w-mts-2033-cor-preto-110v220v/p/MLB23556117#wid%3DMLB3721988765%26sid%3Dsearch%26searchVariation%3DMLB23556117%26position%3D7%26search_layout%3Dgrid%26type%3Dproduct%26tracking_id%3De1bb9d75-47cc-4d34-867a-43725911af00)

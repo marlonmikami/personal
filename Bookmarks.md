@@ -5,11 +5,11 @@
 * [Broski](https://www.youtube.com/@BroskiFGC/videos)
 * [Sajam](https://www.youtube.com/@SupermanSajam/videos)
 
-### Self Improvement
-* [Elisha Long](https://www.youtube.com/@ElishaLong/videos)
+### Health
+* [Edukale by Lucie](https://www.youtube.com/@Edukalebylucie/videos)
 * [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
-* [Luana Carolina](https://www.youtube.com/@luanacarolina.s/videos)
 * [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
+* [Pick Up Limes](https://www.youtube.com/@PickUpLimes/videos)
 
 ### Magic
 * [3/3 Elk](https://www.youtube.com/@33elk/videos)
@@ -27,8 +27,6 @@
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
 * [NotJustBikes](https://www.youtube.com/@NotJustBikes/videos)
-* [OnlyWaifu](https://www.youtube.com/@OnlyWaifuYT/videos)
-* [Rick Beato](https://www.youtube.com/@RickBeato/videos)
 
 ### Music
 * [Alexandra Whittingham](https://www.youtube.com/@AlexandraWhittingham/videos)

@@ -1,5 +1,11 @@
 {
   "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
     "README.md": true,
     "assets": true,
     "archive": true,
@@ -7,7 +13,8 @@
     "_layouts": true,
     "indexer.py": true,
     ".gitignore": true,
-    "desktop.ini": true
+    "desktop.ini": true,
+    "index": true
   },
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.labelFormat": "short",
@@ -21,6 +28,9 @@
   //"editor.renderLineHighlight": "gutter"
   "breadcrumbs.enabled": false,
   "workbench.iconTheme": null,
-  "hide-files.files": [],
-  "files.autoSave": "onFocusChange"
+  "hide-files.files": [
+    "index"
+  ],
+  "files.autoSave": "onFocusChange",
+  "workbench.editor.showTabs": "none"
 }
