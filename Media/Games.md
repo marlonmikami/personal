@@ -221,3 +221,17 @@
 * Persona 5 Royal
 * Street Fighter 6
 * Yoku's Island Express
+
+
+
+---
+
+
+Vita games to play:
+
+  * Deception IV: Blood Ties 
+  * Deception IV: The Nightmare Princess
+  * Muramasa Rebirth
+  * Ratchet and Clank
+  * Sly Cooper
+  * VA-11 HALL-A

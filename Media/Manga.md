@@ -6,8 +6,10 @@
 
 * Berserk
 * Mashle
+* Otoyomegatari
 * Vagabond
 * Vinland Saga
+* Witch Hat Atelier
 
 ## Finished
 
@@ -30,6 +32,7 @@
 * Gal to Bocchi
 * Gal Gohan
 * Holyland
+* I Think I Turned My Childhood Friend (♂) Into a Girl
 * Kuchi ga Saketemo Kimi ni wa
 * Kyou no Asuka Show
 * Mob Psycho 100
