@@ -3,6 +3,8 @@
 ### Fighting games
 * [Brian_F](https://www.youtube.com/@Brian_F/videos)
 * [Broski](https://www.youtube.com/@BroskiFGC/videos)
+* [Diaphone](https://www.youtube.com/@Diaphone/videos)
+* [jmcrofts](https://www.youtube.com/@jmcrofts/videos)
 * [Sajam](https://www.youtube.com/@SupermanSajam/videos)
 
 ### Health
@@ -11,9 +13,10 @@
 * [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
 * [Pick Up Limes](https://www.youtube.com/@PickUpLimes/videos)
 
-### Magic
+### TCGs
 * [3/3 Elk](https://www.youtube.com/@33elk/videos)
 * [Alice Blackblade](https://www.youtube.com/@AliceBlackblade/videos)
+* [Frosted Caribou](https://www.youtube.com/@FrostedCaribou/videos)
 * [Play to Win](https://www.youtube.com/@PlaytoWinMTG/videos)
 * [Salubrious Snail](https://www.youtube.com/@salubrioussnail/videos)
 * [The Trinket Mage](https://www.youtube.com/@thetrinketmage/videos)
@@ -21,12 +24,12 @@
 ### Nice youtube channels
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
-* [Bryan Johnson](https://www.youtube.com/@BryanJohnson/videos)
 * [Cinzia DuBois](https://www.youtube.com/@SelfHelpShelf/videos)
 * [Cinzia DuBois 2](https://www.youtube.com/@CinziaDuBois/videos)
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
 * [NotJustBikes](https://www.youtube.com/@NotJustBikes/videos)
+* [Yan Castedo](https://www.youtube.com/@yancastedo/videos)
 
 ### Music
 * [Alexandra Whittingham](https://www.youtube.com/@AlexandraWhittingham/videos)

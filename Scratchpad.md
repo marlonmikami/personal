@@ -1,22 +1,10 @@
 # Scratchpad
 
-
-
-I need to stop doomscrolling
-
-
-
-
-#### Games to try to play
+#### Games I'm playing
 * Warioland 2
-* Nine Sols
 * Elden Ring
 
-
-
 ---
-
-
 
 ### Look into
 * Adblocking DNS
@@ -25,44 +13,7 @@ I need to stop doomscrolling
 * Non dualism
 * How to read sheet music
 
-
-
 ---
-
-
-
-### AUMENTO
-Salário MAI 2022: 10.000
-Salário MAI 2023: 10.500
-Salário SET 2023: 11.774
-
-Salário Bruto atual:   11.774
-Salário Liquido atual: 8.773,23
-
-Aumento de 10% (1.177)
-* Bruto:   12.951
-* Liquido: 9.626 (+853)
-
-Aumento de 12% (1.412)
-* Bruto:   13.186
-* Liquido: 9.796 (+1.023)
-
-Aumento de 15% (1.766)
-* Bruto:   13.540
-* Liquido: 10.053 (+1.280)
-
-Argumentos
-- Sem ajustes desde 2023
-- Quase três anos de empresa e todos os meus feedbacks foram positivos
-- Arthur diz que eu sou argumento para trabalho home office
-- Recebi um bom trabalho na questão da weconnect
-- Buddy para os rapazes novos
-
-
-
----
-
-
 
 ### Commanders to look into
 * Gev, Scaled Scorch
@@ -72,8 +23,6 @@ Argumentos
 * Gretchen Titchwillow
 * Amalia Benavides
 * Ayara, Widow of the Realm
-
-
 
 ---
 

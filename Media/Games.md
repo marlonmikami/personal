@@ -2,7 +2,8 @@
 
 ### Playing
 * Cuphead (Xbox)
-* Shovel Knight
+* A Plague Tale: Innocence
+* Wario Land II
 
 ### To play on Xbox before selling it
 
@@ -10,16 +11,15 @@
 * Batman games
 * Battle Chasers *
 * Chasm *
-* *Cuphead*   (Playing)
+* *Cuphead*
 * Dragon Ball Xenoverse *
-* **Elden Ring**
 * Fell Seal *
 * Hellblade
 * **Hogwarts Legacy**
 * The Knight Witch
 * Lords of the Fallen
 * Metal Gear Solid V
-* Nier Automata
+* **Nier Automata**
 * **A Plague Tale**
 * Rayman Origins *
 * Rayman Legends *
@@ -33,7 +33,6 @@
 
 * Gunstar Heroes (Mega Drive)
 * Castlevania Bloodlines (Mega Drive)
-* Final Fantasy III (Sens)
 * Parasite Eve (PS1)
 * Metal Gear Solid (PS1)
 * Legend of Zelda, The - The Minish Cap (GBA)
@@ -45,6 +44,9 @@
 * Odin Sphere: Leifthrasir (PSVita)
 * Resident Evil: Revelations 2
 * Ultima IV: Quest of the Avatar
+* Warcraft 1: DOS
+* Life is Strange: True Colors (Other romance)
+* Shining Force
 
 
 
@@ -77,6 +79,7 @@
 * Mini Ghost
 * Need for Speed - Underground
 * Need for Speed - Underground 2
+* Nunholy
 * Outland
 * Quake
 * Quake 4
@@ -197,6 +200,7 @@
 
 * Castlevania
 * Kirby
+* Mega Man
 * Super Mario Bros
 
 ### DOS
@@ -211,6 +215,7 @@
 * Coffee Talk
 * Control
 * Donut County
+* Elden Ring
 * Fallout 4
 * Hades
 * Haven
@@ -233,5 +238,6 @@ Vita games to play:
   * Deception IV: The Nightmare Princess
   * Muramasa Rebirth
   * Ratchet and Clank
+  * Scourgebringer
   * Sly Cooper
   * VA-11 HALL-A
