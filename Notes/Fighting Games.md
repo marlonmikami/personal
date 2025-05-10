@@ -50,8 +50,6 @@ Punish Rashid's eagle spike
 
 
 
-
-
 ## Granblue Fantasy Versus Rising
 
 * Learn to beat mashing
@@ -59,9 +57,14 @@ Punish Rashid's eagle spike
 * Learn to use bravery cancel (free dash light after?)
 
 
-## Soul Calibur
+
+## Soul Calibur 6
 
 [Beginner Guide](https://www.youtube.com/watch?v=X8h-Yb7pW1Q)
 [How to block](https://www.youtube.com/watch?v=E-A326L2Gdc)
 [Defense](https://www.youtube.com/watch?v=aTRWGZV2Pkk)
 [Neutral](https://www.youtube.com/watch?v=fi25EBUAJk8)
+
+
+
+## Tekken 8

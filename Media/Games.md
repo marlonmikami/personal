@@ -192,6 +192,7 @@
 * Chrono Trigger
 * Donkey Kong Country
 * Mega Man X
+* Ninja Warriors
 * Rock N' Roll Racing
 * Super Castlevania 4
 * Yoshi's Island

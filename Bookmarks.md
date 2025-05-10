@@ -28,7 +28,9 @@
 * [Cinzia DuBois 2](https://www.youtube.com/@CinziaDuBois/videos)
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
+* [Kelski](https://www.youtube.com/@kel_ski/videos)
 * [NotJustBikes](https://www.youtube.com/@NotJustBikes/videos)
+* [videogamedunkey](https://www.youtube.com/@videogamedunkey)
 * [Yan Castedo](https://www.youtube.com/@yancastedo/videos)
 
 ### Music

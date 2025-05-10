@@ -2,9 +2,10 @@
 
 ### Books to buy/get
 
-* Siddhartha (Hermann Hesse)
-* Metamorphosis (Franz Kafka)
-* Crime and Punishment (Fyodor Dostoevsky)
+* The Heart of the Buddha's Teaching - Thich Nhat Hanh
+* Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism - Sarah Wynn-Williams
+* The Three Pillars of Zen: Teaching, Practice, and Enlightenment - Philip Kapleau Roshi
+* Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice - Shunryu Suzuki
 
 ---
 

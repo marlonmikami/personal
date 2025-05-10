@@ -44,6 +44,7 @@
 * Apothecary Diaries
 * Beastars, season 3
 * RE Zero, season 3
+* Kowloon Generic Romance
 
 ## Finished
 
