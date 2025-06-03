@@ -4,45 +4,24 @@
 
 * Giji Harem
 
-### To Watch Next
-
-* Dan Da Dan
-
 ### To Watch Eventualy
 
-* Bakemonogatari
 * Bakuretsu Hunters
-* Battle Programmer Shirase
-* Casshern Sins
-* Deadman Wonderland
-* Fushigi no Umi no Nadia
 * Gakkou no Kaidan
 * Girls und Panzer
 * Gunbuster
-* Gun Frontier
-* Jubei-chan The Ninja Girl
 * Karas
 * Katanagatari
 * Kuragehime
-* Legend of Black Heaven
 * Legend of Galactic Heroes
-* Michiko to Hatchin
-* Mononoke
-* Nagi no Asukara
 * Nazo no Kanojo X
 * Patlabor - Kido Keisatsu Patlabor
 * Ookami-san to Shichinin no Nakama-tachi
-* Rainbow - Nisha Rokubou no Shichinin
 * Samurai Champloo
-* So Ra No Wo To
-* Sunabouzu (Desert Punk)
-* Tegami Bachi
 
 ## Download when finished airing
 
-* Orb: On the Movements of the Earth
 * Apothecary Diaries
-* Beastars, season 3
 * RE Zero, season 3
 * Kowloon Generic Romance
 
@@ -68,6 +47,7 @@
 * Chobits
 * Clannad
 * Clannad After Story
+* Dan Da Dan
 * Death Note
 * Demi-chan wa Karitai
 * Demon King Daimao
@@ -122,6 +102,7 @@
 * Nodame Cantabile Paris-Hen
 * Nodame Cantabile: Finale ???
 * One-Punch Man (Season 1)
+* Orb: On the Movements of the Earth
 * Ore Monogatari!!
 * Ore no Imouto ga Konna ni Kawaii Wake ga Nai
 * Oshiete! Galko-chan
@@ -160,7 +141,6 @@
 * Arakawa Under The Bridge
 * Baccano!
 * Chuunibyou demo Koi ga Shitai!
-* Gakkou no Kaidan
 * Konjiki no Gash Bell!!
 * Mushishi
 * Naruto
