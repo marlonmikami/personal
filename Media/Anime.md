@@ -2,7 +2,6 @@
 
 ### Watching
 
-* Giji Harem
 
 ### To Watch Eventualy
 
@@ -58,6 +57,7 @@
 * Eve no Jikan
 * FullMetal Alchemist
 * FullMetal Alchemist Brotherhood
+* Giji Harem
 * Great Teacher Onizuka
 * Haikyuu
 * Hanasaku Iroha
