@@ -57,6 +57,7 @@
 * Eve no Jikan
 * FullMetal Alchemist
 * FullMetal Alchemist Brotherhood
+* The Garden of Words
 * Giji Harem
 * Great Teacher Onizuka
 * Haikyuu
