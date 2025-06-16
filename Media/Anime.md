@@ -127,6 +127,7 @@
 * Toradora!
 * Tsurezure Children
 * Uzaki-chan wa Asobitai!
+* Violet Evergarden
 * Working!!
 * Working 2!!
 * Yahari Ore no Seishun Love Comedy wa Machigatteiru (OreGairu)
