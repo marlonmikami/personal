@@ -60,6 +60,7 @@
 * The Garden of Words
 * Giji Harem
 * Great Teacher Onizuka
+* Gunsmith Cats
 * Haikyuu
 * Hanasaku Iroha
 * Hellsing
