@@ -90,6 +90,7 @@
 * Koi Kaze
 * Koi to Senkyo to Chocolate
 * Kyoukai no Kanata (Beyond the Boundary)
+* Look Back
 * Love Hina
 * Lovely Complex
 * Mahou Shoujo Madoka Magica
