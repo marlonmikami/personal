@@ -21,6 +21,7 @@
 ### Miscellaneous
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
+* [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins/videos)
 * [Cinzia DuBois](https://www.youtube.com/@TheAnnotatedMind/videos)
 * [Cinzia DuBois 2](https://www.youtube.com/@CinziaDuBois/videos)
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
