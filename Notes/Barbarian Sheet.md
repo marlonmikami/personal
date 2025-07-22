@@ -192,10 +192,15 @@ Seus maneirismos e conhecimento dos costumes feéricos são reconhecidos pelos n
 **Relação**:
 
 Pai de Durik. 
+
 Teve uma personalidade mais amigável antes do falecimento de sua esposa, ao dar a luz a Durik. 
+
 Culpa Durik pela morte de sua esposa, por isso sempre foi negligente como pai.
+
 Não se dava ao trabalho de procurar Durik quando ele desaparecia. Este voltava para casa por conta própria ou com a ajuda de vizinhos.
+
 Não se importou com a perda quando Durik desapareceu de vez.
+
 É dele de quem Durik herdou seu físico e sua fúria.
 
 
@@ -250,9 +255,13 @@ Não teve uma presença longa na vida de Durik, porém ele entende a marca que e
 **Relação**:
 
 Foi a primeira pessoa na faéria a tratar Durik como algo além de uma curiosidade, reconhecendo o perigo de uma criança humana vivendo sozinha na faéria.
+
 Com ele, Durik aprendeu o combate como sobrevivência, assim como jogo. O ensinou a ganhar a todo custo, mas não matar aqueles que não estão em condição de se defender.
+
 Panikos viu a fúria que existia dentro de Durik e o ensinou a aplicá-la.
+
 Foi com ele também que Durik aprendeu a irreverência, o gosto pelo álcool, a coragem de se arriscar.
+
 É a única pessoa que Durik considera como família.
 
 
