@@ -168,9 +168,11 @@
 
 ### Gamecube
 
+* Super Smash Bros. Melee
 * TimeSplitters 2
 * TimeSplitters 3
 * Twilight Princess
+* Wario World
 
 ### Nintendo Wii
 
