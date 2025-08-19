@@ -2,7 +2,6 @@
 
 ### Playing
 * Cuphead (Xbox)
-* A Plague Tale: Innocence
 * Wario Land II
 
 ### To play on Xbox before selling it
@@ -75,6 +74,7 @@
 * Hard Reset
 * Hotline Miami
 * Iconoclasts
+* Laika: Aged Through Blood
 * Legend of Grimrock
 * Mini Ghost
 * Need for Speed - Underground
