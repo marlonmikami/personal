@@ -1,28 +1,19 @@
 # Anime
 
-### Watching
-
-
-### To Watch Eventualy
-
-* Bakuretsu Hunters
-* Gakkou no Kaidan
-* Girls und Panzer
-* Gunbuster
-* Karas
-* Katanagatari
-* Kuragehime
-* Legend of Galactic Heroes
-* Nazo no Kanojo X
-* Patlabor - Kido Keisatsu Patlabor
-* Ookami-san to Shichinin no Nakama-tachi
-* Samurai Champloo
-
-## Download when finished airing
+## To Download
 
 * Apothecary Diaries
 * RE Zero, season 3
-* Kowloon Generic Romance
+* City the Animation
+* Gunbuster
+* Legend of Galactic Heroes
+* Ookami-san to Shichinin no Nakama-tachi
+* Panty and Stocking season 2
+* Patlabor - Kido Keisatsu Patlabor
+* Samurai Champloo
+* The Summer Hikaru Died
+* Takopi's Original Sin
+* Rascal movie
 
 ## Finished
 

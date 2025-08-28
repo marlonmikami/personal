@@ -4,3 +4,4 @@
 * [Books](../Media/Books.md)
 * [Games](../Media/Games.md)
 * [Manga](../Media/Manga.md)
+* [Movies](../Media/Movies.md)

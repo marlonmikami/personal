@@ -1,10 +1,6 @@
 # Games
 
-### Playing
-* Cuphead (Xbox)
-* Wario Land II
-
-### To play on Xbox before selling it
+## To play on Xbox before selling it
 
 * Black Flag
 * Batman games
@@ -28,7 +24,7 @@
 * Shining Resonance
 * Trine 4
 
-### Games to play soon
+## Games to play soon
 
 * Gunstar Heroes (Mega Drive)
 * Castlevania Bloodlines (Mega Drive)

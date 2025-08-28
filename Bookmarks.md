@@ -1,5 +1,9 @@
 # Bookmarks
 
+### Buddhism
+* [Doug's Dharma](https://www.youtube.com/@DougsDharma/videos)
+* [The Theory of Samsara](https://www.youtube.com/@ultimatemeaning/videos)
+
 ### Fighting games
 * [Brian_F](https://www.youtube.com/@Brian_F/videos)
 * [Broski](https://www.youtube.com/@BroskiFGC/videos)
@@ -11,6 +15,18 @@
 ### Game Development
 * [DaFluffyPotato](https://www.youtube.com/@DaFluffyPotato/videos)
 * [Juniper Dev](https://www.youtube.com/@JuniperDev/videos)
+
+### Gaming
+* [Action Button](https://www.youtube.com/@ActionButton/videos)
+* [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
+* [Bouch](https://www.youtube.com/@bouch_/videos)
+* [Civvie 11](https://www.youtube.com/@Civvie11/videos)
+* [EthosLab](https://www.youtube.com/@EthosLab/videos)
+* [Hungry Goriya](https://www.youtube.com/@hungrygoriya/videos)
+* [Kelski](https://www.youtube.com/@kel_ski/videos)
+* [Retro Bird](https://www.youtube.com/@RetroBirdGaming/videos)
+* [TechDweeb](https://www.youtube.com/@TechDweeb/videos)
+* [videogamedunkey](https://www.youtube.com/@videogamedunkey/videos)
 
 ### Health
 * [Edukale by Lucie](https://www.youtube.com/@Edukalebylucie/videos)
@@ -40,6 +56,7 @@
 * [First To Eleven](https://www.youtube.com/@FirstToEleven/videos)
 * [Gabriella Quevedo](https://www.youtube.com/@Gabriella9797/videos)
 * [Iron Cross](https://www.youtube.com/@TheIronCrossBand/videos)
+* [The Iron Cross Band](https://www.youtube.com/@TheIronCrossBand/videos)
 * [Letícia Eleutério Braga](https://www.youtube.com/@Eleuteriole/videos)
 * [maromaro1337](https://www.youtube.com/@maromaro1337/videos)
 * [Sofia Karlberg](https://www.youtube.com/@sofiakarlbergs/videos)
@@ -49,13 +66,6 @@
 * [Alice Blackblade](https://www.youtube.com/@AliceBlackblade/videos)
 * [Frosted Caribou](https://www.youtube.com/@FrostedCaribou/videos)
 * [Play to Win](https://www.youtube.com/@PlaytoWinMTG/videos)
+* [Rhystic Studies](https://www.youtube.com/@RhysticStudies/videos)
 * [Salubrious Snail](https://www.youtube.com/@salubrioussnail/videos)
 * [The Trinket Mage](https://www.youtube.com/@thetrinketmage/videos)
-
----
-
-### Meditation Tips
-
-* [Breath](https://www.reddit.com/r/Meditation/comments/138iec5/a_monk_once_gave_me_this_advice_about_breathing/)
-* [Where the self is](https://www.reddit.com/r/Meditation/comments/16g5b59/i_accidentally_discovered_a_useful_way_to_alter/)
-* [Peripheral vision](https://www.reddit.com/r/Meditation/comments/mud8sr/i_will_share_with_you_the_secret_trick_to/)

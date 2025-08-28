@@ -2,21 +2,17 @@
 
 ## To buy
 * [ ] Titanium earrings
-  * [ ] [Round](https://piercingmania.com.br/outros-produtos/7945-brinco-argola-slim-100-em-titanio-16out23.html)
+  * [ ] [Round](https://titaniopiercing.com.br/produtos/par-de-brincos-clicker-riga-argolas-lisas/)
   * [x] [Black jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-agata-preta/)
-  * [ ] [White jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-magnesite/)
-* [ ] [Card Holder](https://www.jouse.com.br/comprar/jouse-serie-1/)
+  * [ ] [Clear jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-prongset-ponto-de-luz-zirconia/)
 * [ ] [Wheels for chair](https://www.pichau.com.br/conjunto-de-rodinhas-pichau-soft-75mm-pg-rds-bk01)
 * [ ] Curtains for the bedroom
-* [ ] [Mesh router for mom's house](https://www.amazon.com.br/Roteador-TP-Link-Deco-S7-Dual-Band/dp/B0D4ZM36PG/ref=pd_ci_mcx_pspc_dp_2_t_1?pd_rd_w=Wisgj&content-id=amzn1.sym.55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_p=55222bec-30d3-4cc4-9843-d97efc3c1d20&pf_rd_r=9RFY39A7AGFRJQMY08GH&pd_rd_wg=MhX99&pd_rd_r=5a18d0df-95a2-44a9-b255-61564dcdbca8&pd_rd_i=B0D4ZM36PG)
-* [ ] Standing desk (Ergodesk) + Drawers
+* [ ] Curtains for the office
 * [ ] [Fancy japamala](https://www.lojapoderdaluz.com.br/japamala-pedra-lava-vulcanica-com-rudraksha-108-contas-8-mm--p)
-* [ ] Wood support to get the computer off the floor
-* [ ] Water flosser ?
-* [ ] Bidet attachment
+* [ ] Water flosser
+* [ ] Plate for plant
+* [ ] handkerchief
 
-## For the office renovation
-* [ ] [Soundbar for the TV](https://www.mercadolivre.com.br/caixa-de-som-soundbar-20-tomate-bluetooth-110w-mts-2033-cor-preto-110v220v/p/MLB23556117#wid%3DMLB3721988765%26sid%3Dsearch%26searchVariation%3DMLB23556117%26position%3D7%26search_layout%3Dgrid%26type%3Dproduct%26tracking_id%3De1bb9d75-47cc-4d34-867a-43725911af00)
 
 ## Bought
 * [x] Retro PC upgrade                         (2024-06-05)
@@ -49,3 +45,5 @@
 * [x] Tongue scraper                           (2025-01-20)
 * [x] Thing to hang clothes                    (2025-01-20)
 * [x] Cable management stuff                   (2025-01-20)
+* [x] Card Holder                              (2025-05-31)
+* [x] Bidet attachment                         (2025-07-12)
