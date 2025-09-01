@@ -11,7 +11,8 @@
 * [ ] [Fancy japamala](https://www.lojapoderdaluz.com.br/japamala-pedra-lava-vulcanica-com-rudraksha-108-contas-8-mm--p)
 * [ ] Water flosser
 * [ ] Plate for plant
-* [ ] handkerchief
+* [ ] Handkerchief
+* [ ] Cork board
 
 
 ## Bought

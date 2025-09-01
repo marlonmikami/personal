@@ -51,6 +51,9 @@
 * [The Most Dangerous Form Of Meditation](https://www.youtube.com/watch?v=SEQnFXc_QQs)
 * [Dr. K - Shoonya Meditation](https://www.youtube.com/watch?v=gpFKNzX-sF4)
 * [Meditation To Help You Take Action](https://www.youtube.com/watch?v=7VaHh9EUcfE)
+* [Types of meditation](https://oneminddharma.com/types-of-meditation/)
+* [Body Contemplation](https://www.youtube.com/watch?v=9-CysBsc1GU)
+* [Satipatthana Sutta, Foundations of Mindfulness](https://www.accesstoinsight.org/lib/authors/soma/wayof.html#msg)
 
 ---
 
@@ -69,4 +72,4 @@ Look into
 * Dzogchen
 * Jhanas
 * Pranayama 
-* Disgust with the body
+* Disgust with the body (Asubha Bhāvanā)

@@ -1,6 +1,7 @@
 # Bookmarks
 
 ### Buddhism
+* [Ajahn Sona](https://www.youtube.com/@AjahnSona/videos)
 * [Doug's Dharma](https://www.youtube.com/@DougsDharma/videos)
 * [The Theory of Samsara](https://www.youtube.com/@ultimatemeaning/videos)
 
@@ -29,25 +30,25 @@
 * [videogamedunkey](https://www.youtube.com/@videogamedunkey/videos)
 
 ### Health
-* [Edukale by Lucie](https://www.youtube.com/@Edukalebylucie/videos)
+* [HealthyGamerGG](https://www.youtube.com/@HealthyGamerGG/videos)
 * [Hybrid Calisthenics](https://www.youtube.com/@HybridCalisthenics/videos)
+* [Meli](https://www.youtube.com/@LoveFromMeli/videos)
 * [The Bioneer](https://www.youtube.com/@TheBioneer/videos)
-* [Pick Up Limes](https://www.youtube.com/@PickUpLimes/videos)
 
 ### Miscellaneous
+* [Accepting the Universe](https://www.youtube.com/@acceptingtheuniverse/videos)
 * [Angelikatosh](https://www.youtube.com/@Angelikatosh/videos)
 * [Brandon Acker](https://www.youtube.com/@brandonacker/videos)
-* [Bread on Penguins](https://www.youtube.com/@BreadOnPenguins/videos)
 * [Cinzia DuBois](https://www.youtube.com/@TheAnnotatedMind/videos)
 * [Cinzia DuBois 2](https://www.youtube.com/@CinziaDuBois/videos)
 * [Civvie 11](https://www.youtube.com/@Civvie11/videos)
+* [philosofree](https://www.youtube.com/@philosofree/videos)
 * [Izzzyzzz](https://www.youtube.com/@Izzzyzzz/videos)
 * [Kelski](https://www.youtube.com/@kel_ski/videos)
 * [No Boilerplate](https://www.youtube.com/@NoBoilerplate/videos)
 * [NotJustBikes](https://www.youtube.com/@NotJustBikes/videos)
 * [Technology Connections](https://www.youtube.com/@TechnologyConnections/videos)
 * [videogamedunkey](https://www.youtube.com/@videogamedunkey)
-* [Yan Castedo](https://www.youtube.com/@yancastedo/videos)
 
 ### Music
 * [Alexandra Whittingham](https://www.youtube.com/@AlexandraWhittingham/videos)
