@@ -31,7 +31,9 @@
 * Fujiyama-san wa Shishunki
 * Gal to Bocchi
 * Gal Gohan
+* Galnanajimi wa Koko ga Suki (My Gal childhood Friend Likes It Here)
 * Holyland
+* Home Office Romance
 * I Think I Turned My Childhood Friend (♂) Into a Girl
 * Kuchi ga Saketemo Kimi ni wa
 * Kyou no Asuka Show
@@ -44,6 +46,7 @@
 * Person Sitting Next to Me Looking at Me with Perverted Eyes, The 
 * Rough Sketch Senpai
 * Rurouni Kenshin
+* Sanpakugan-chan wa Tsutaetai. (The Girl with the Sanpaku Eyes)
 * Shaman King
 * Tennen Gyaru Kawaguchi-San!
 * Thermae Romae
@@ -53,4 +56,5 @@
 * Wakusei no Samidare
 * Wallman
 * When I Returned to My Hometown, My Childhood Friend was Broken
+* Yakumo-san wa Ezuke ga Shitai.
 * Yasashii Sekai no Tsukurikata (A Method to Make the World Gentle)

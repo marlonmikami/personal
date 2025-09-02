@@ -92,6 +92,7 @@
 * Monster
 * Myself; Yourself
 * NHK ni Youkoso
+* Nichijou
 * Nodame Cantabile
 * Nodame Cantabile Paris-Hen
 * Nodame Cantabile: Finale ???
