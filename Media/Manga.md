@@ -45,6 +45,7 @@
 * Person Sitting Next to Me Looking at Me with Perverted Eyes, The 
 * Rough Sketch Senpai
 * Rurouni Kenshin
+* Sanpakugan-chan wa Tsutaetai. (The Girl with the Sanpaku Eyes)
 * Shaman King
 * Tennen Gyaru Kawaguchi-San!
 * Thermae Romae
