@@ -16,6 +16,8 @@ On living well:
 
 Keeping the mind focused on the self is bad for the mood
 
+A few minutes of anxious feeling a day is not enough to say that life is not worth living
+
 ---
 
 ### Look into
