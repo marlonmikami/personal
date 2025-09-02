@@ -31,6 +31,7 @@
 * Fujiyama-san wa Shishunki
 * Gal to Bocchi
 * Gal Gohan
+* Galnanajimi wa Koko ga Suki (My Gal childhood Friend Likes It Here)
 * Holyland
 * Home Office Romance
 * I Think I Turned My Childhood Friend (♂) Into a Girl
