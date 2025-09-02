@@ -54,4 +54,5 @@
 * Wakusei no Samidare
 * Wallman
 * When I Returned to My Hometown, My Childhood Friend was Broken
+* Yakumo-san wa Ezuke ga Shitai.
 * Yasashii Sekai no Tsukurikata (A Method to Make the World Gentle)
