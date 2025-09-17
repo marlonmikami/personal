@@ -10,10 +10,8 @@
 * [ ] Curtains for the office
 * [ ] [Fancy japamala](https://www.lojapoderdaluz.com.br/japamala-pedra-lava-vulcanica-com-rudraksha-108-contas-8-mm--p)
 * [ ] Water flosser
-* [ ] Quality in-ear headphones
 * [ ] New top for the table at my office
 * [ ] Controller: Gamesir T3 Lite
-* [ ] Digital Audio Player
 
 
 ## Bought
@@ -52,3 +50,5 @@
 * [x] Power Strip for the server               (2025-09-09)
 * [x] Cork board                               (2025-09-09)
 * [x] Handkerchief                             (2025-09-09)
+* [x] Quality in-ear headphones                (2025-09-12)
+* [x] Digital Audio Player                     (2025-09-12)
