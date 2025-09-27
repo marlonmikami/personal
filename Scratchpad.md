@@ -1,5 +1,7 @@
 # Scratchpad
 
+Porn free as of September tenth 
+
 ---
 
 On living well:
@@ -31,9 +33,20 @@ A few minutes of anxious feeling a day is not enough to say that life is not wor
 
 ---
 
+* Instead of thinkin "This is hard because ...", think "This is hard because xyz, but I can do it anyway, even if is uncomfortable"
+* Stop with limiting identities "I'm an introvert, I'm unfocused, I'm lazy"
+* Everything is a win when the goal is to experience
+* You need to create, no only consume. Have an effect on the world. Improve your creation to consumption ratio
+* Good sleep is incredibly effective at making me feel better
+* Knowledge does not inspire behavioral change. Experience does
+* Denial of reward followed by reward is what gives a sense of fulfillment. Harder things are more fulfilling. Work for things
+* No amount of knowledge is substitute for experience (You don't already have the answer, you don't know. You NEED to explore. Do with awareness)
+* Embrace dificulty.
+* Enjoyment <> Fulfillment
+* Emotional regulation is done during iddle time. Do something with your body in quiet.
 
 
-
+Go for a looong ass walk, and then dring a glass of water, with awareness.
 
 Mom's getting tired, need to think about how to guarantee a good future for her
 

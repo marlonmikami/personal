@@ -1,10 +1,6 @@
 # Wishlist
 
 ## To buy
-* [ ] Titanium earrings
-  * [ ] [Round](https://titaniopiercing.com.br/produtos/par-de-brincos-clicker-riga-argolas-lisas/)
-  * [x] [Black jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-titanio-agata-preta/)
-  * [ ] [Clear jewel](https://titaniopiercing.com.br/produtos/par-de-brincos-prongset-ponto-de-luz-zirconia/)
 * [ ] [Wheels for chair](https://www.pichau.com.br/conjunto-de-rodinhas-pichau-soft-75mm-pg-rds-bk01)
 * [ ] Curtains for the bedroom
 * [ ] Curtains for the office
@@ -12,7 +8,6 @@
 * [ ] Water flosser
 * [ ] New top for the table at my office
 * [ ] Controller: Gamesir T3 Lite
-
 
 ## Bought
 * [x] Retro PC upgrade                         (2024-06-05)
@@ -52,3 +47,6 @@
 * [x] Handkerchief                             (2025-09-09)
 * [x] Quality in-ear headphones                (2025-09-12)
 * [x] Digital Audio Player                     (2025-09-12)
+* [x] New toolbox                              (2025-09-24)
+* [x] New soundbar (JBL SB180)                 (2025-09-25)
+* [x] New graphics card (RTX 5070 TI)          (2025-09-27)
