@@ -72,6 +72,7 @@
 * Iconoclasts
 * Laika: Aged Through Blood
 * Legend of Grimrock
+* Level Devil
 * Mini Ghost
 * Need for Speed - Underground
 * Need for Speed - Underground 2
